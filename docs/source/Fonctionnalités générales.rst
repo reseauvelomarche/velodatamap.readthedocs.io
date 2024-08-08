@@ -6,6 +6,10 @@ Fonctionnalités générales
 .. |map_icon| image:: images/map_icon.png
 .. |layer_icon| image:: images/layer_icon.png
 
+.. only:: html
+
+    .. figure:: images/selection_cartes.gif
+
 .. dropdown:: Circuler entre les cartes
 
     Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
@@ -15,9 +19,7 @@ Fonctionnalités générales
 
 
 
-.. only:: html
 
-    .. figure:: images/selection_cartes.gif
 
 Activer les différentes couches de données
 ------------

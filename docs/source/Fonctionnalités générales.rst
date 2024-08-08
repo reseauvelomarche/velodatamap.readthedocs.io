@@ -10,11 +10,11 @@ Fonctionnalités générales
 
     .. figure:: images/selection_cartes.gif
 
-.. dropdown:: Circuler entre les cartes
+:::{dropdown} Circuler entre les cartes
 
-    Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
-    Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |map_icon| puis en cliquant sur l'une d'entre elles :
-
+Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
+Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |map_icon| puis en cliquant sur l'une d'entre elles :
+:::
 
 
 

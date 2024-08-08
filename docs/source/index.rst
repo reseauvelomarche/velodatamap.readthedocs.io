@@ -8,14 +8,14 @@ Elle est accessible en accès connecté à l'adresse `velodatamap.velo-territoir
 
 .. note::
 
-   This project is under active development.
+   Documentation en cours d'écriture.
 
-Contents
+Chapitres
 --------
 
 .. toctree::
 
    Création et gestion de votre compte
    Module véloroutes
-   Module équipements vélo, aires de services et halte-repos
+   Module équipements vélo, aires de services et haltes-repos
    Module signalement

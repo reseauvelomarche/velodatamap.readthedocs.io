@@ -16,6 +16,8 @@ Chapitres
 .. toctree::
 
    Création et gestion de votre compte
+   Fonctionnalités générales
    Module véloroutes
    Module équipements vélo, aires de services et haltes-repos
    Module signalement
+   Module cménagements

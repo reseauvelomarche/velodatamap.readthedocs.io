@@ -32,7 +32,7 @@ Pour modifier votre mot de passe, il suffit d'accéder à l'interface de connexi
 
 .. only:: html
 
-   .. figure:: ./images/oubli_mot_de_passe.gif
+   .. figure:: images/oubli_mot_de_passe.gif
 
 
 To retrieve a list of random ingredients,

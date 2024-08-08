@@ -1,13 +1,9 @@
-Welcome to Lumache's documentation!
+Bienvenue sur la documentation de Velodatamap !
+
+Cette plateforme en ligne est proposée par `Vélo & Territoires <https://www.velo-territoirres.org>`_ afin de promouvoir et diffuser les données autour des véloroutes françaises.
+Elle est accessible en consultation libre au public à l'adresse `velodatamap.velo-territoires/org <velodatamap.velo-territoires/org>`_, et en accès connecté à l'adresse `velodatamap.velo-territoires/org/login <velodatamap.velo-territoires/org/login>`_
+
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,4 +14,7 @@ Contents
 
 .. toctree::
 
-   usage
+   Création et gestion de votre compte
+   Module véloroutes
+   Module équipements vélo, aires de services et halte-repos
+   Module signalement

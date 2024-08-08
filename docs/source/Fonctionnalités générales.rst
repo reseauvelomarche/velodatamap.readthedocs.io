@@ -15,11 +15,25 @@ Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |map
 
    .. figure:: images/selection_cartes.gif
 
-Activer les différentes couches
+Activer les différentes couches de données
 ------------
 
-Activer la légende
+Différentes couches de données peuvent être affichées sur chaque carte. Certaines s'affichent par défaut dès le chargement, et d'autres sont désactivées par défaut mais peuvent vous être utiles !
+Cliquez sur |layer_icon| pour accéder à l'interface suivante :
+
+.. only:: html
+
+   .. figure:: images/selection_cartes.gif
+
+Afficher la légende
 ------------
+
+Besoin de comprendre les données qui s'affichent sur la carte ? Affichez la légende propre à chaque carte, toujours en cliquant sur |layer_icon| :
+
+.. only:: html
+
+   .. figure:: images/legende.gif
+
 
 Faire une recherche parmi les données
 ------------
@@ -28,6 +42,9 @@ Filtrer graphiquement les données
 ------------
 
 Créer, modifier et sélectionner une entité
+------------
+
+Exporter des données
 ------------
 
 Comparer des cartes

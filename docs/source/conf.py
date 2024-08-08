@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Velodatamap'
+copyright = '2024, Vélo & Territoires'
+author = '@IdrissaD'
 
 release = '0.1'
 version = '0.1.0'

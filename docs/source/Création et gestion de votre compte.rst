@@ -26,9 +26,14 @@ Vélo & Territoires créera votre compte dans la semaine qui vient, après quoi 
 Gestion et modification d'un compte
 ----------------
 
-Pour modifier les accès aux modules de Velodatamap, merci de nous contacter.
+Pour modifier vos accès aux modules de Velodatamap, merci de nous contacter.
 
-Pour modifier votre mot de passe, il suffit d'accéder à l'interface de connexion et de cliquer sur « 
+Pour modifier votre mot de passe, il suffit d'accéder à l'interface de connexion et de suivre la démarche suivante :
+
+.. only:: html
+
+   .. figure:: ./oubli_mot_de_passe.gif
+
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:

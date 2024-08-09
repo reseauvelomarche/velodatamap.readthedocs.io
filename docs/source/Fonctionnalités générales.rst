@@ -16,13 +16,10 @@ Fonctionnalités générales
 .. |ajout_entite| image:: images/icons/ajout_entite.png
             :width: 30
 .. |modifier| image:: images/icons/modifier.png
-            :width: 30
 .. |enregistrer| image:: images/icons/enregistrer.png
-            :width: 30
 .. |requeteur| image:: images/icons/requeteur.png
             :width: 30
 .. |extraction| image:: images/icons/extraction.png
-            :width: 30
 .. |telechargement_tabulaire| image:: images/icons/telechargement_tabulaire.png
             :width: 30
 .. |comparer| image:: images/icons/comparer.png

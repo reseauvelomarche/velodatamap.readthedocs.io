@@ -4,18 +4,31 @@ Fonctionnalités générales
 .. _fonctionnalites:
 
 .. |cartes| image:: images/icons/cartes.png
+            :width: 30
 .. |couches| image:: images/icons/couches.png
+            :width: 30
 .. |rechercher| image:: images/icons/rechercher.png
+            :width: 30
 .. |filtrer| image:: images/icons/filtrer.png
+            :width: 30
 .. |connecte| image:: images/icons/connecte.png
+            :width: 30
 .. |ajout_entite| image:: images/icons/ajout_entite.png
+            :width: 30
 .. |modifier| image:: images/icons/modifier.png
+            :width: 30
 .. |enregistrer| image:: images/icons/enregistrer.png
+            :width: 30
 .. |requeteur| image:: images/icons/requeteur.png
+            :width: 30
 .. |extraction| image:: images/icons/extraction.png
+            :width: 30
 .. |telechargement_tabulaire| image:: images/icons/telechargement_tabulaire.png
+            :width: 30
 .. |comparer| image:: images/icons/comparer.png
+            :width: 30
 .. |mesurer| image:: images/icons/mesurer.png
+            :width: 30
 
 
 .. dropdown:: Circuler entre les cartes
@@ -100,6 +113,7 @@ Fonctionnalités générales
 .. dropdown:: Mesurer des distances
 
    Mesurer des distances peut être utile, par exemple pour estimer le périmètre d'un regroupement d'équipements avant de l'implanter sur la carte. Le bouton |mesurer| est tout en bas à droite de l'écran.
+   
    .. only:: html
 
       .. figure:: images/gifs/mesurer.gif

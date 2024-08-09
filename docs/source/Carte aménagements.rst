@@ -12,7 +12,7 @@ Cette carte présente deux jeux de données :
 
 L'agrégation des deux sources de données est effectuée par Vélo & Territoires chaque année.
 
-Un module spécial accessible en cliquant sur |amenagements| permet d'obtenir des statistiques à tout échelon territorial, des régions jusqu'aux EPCI. :
+Un module spécial, accessible en cliquant sur |amenagements|, permet d'obtenir des statistiques à tout échelon territorial, des régions jusqu'aux EPCI. :
 
 .. only:: html
 

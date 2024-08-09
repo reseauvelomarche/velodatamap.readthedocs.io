@@ -9,14 +9,16 @@ Fonctionnalités générales
 
 .. dropdown:: Circuler entre les cartes
 
-   .. figure:: images/selection_cartes.gif
+   Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
+   Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |map_icon| puis en cliquant sur l'une d'entre elles :
+
+   .. only:: html
+
+      .. figure:: images/selection_cartes.gif
 
 
-Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
-Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |map_icon| puis en cliquant sur l'une d'entre elles :
 
-
-Activer les différentes couches de données
+.. dropdown:: Activer les différentes couches de données
 ------------
 
 Différentes couches de données peuvent être affichées sur chaque carte. Certaines s'affichent par défaut dès le chargement, et d'autres sont désactivées par défaut mais peuvent vous être utiles !
@@ -26,7 +28,7 @@ Cliquez sur |layer_icon| pour accéder à l'interface suivante :
 
    .. figure:: images/selection_cartes.gif
 
-Afficher la légende
+.. dropdown:: Afficher la légende
 ------------
 
 Besoin de comprendre les données qui s'affichent sur la carte ? Affichez la légende propre à chaque carte, toujours en cliquant sur |layer_icon| :
@@ -36,22 +38,22 @@ Besoin de comprendre les données qui s'affichent sur la carte ? Affichez la lé
    .. figure:: images/legende.gif
 
 
-Faire une recherche parmi les données
+.. dropdown:: Faire une recherche parmi les données
 ------------
 
-Filtrer graphiquement les données
+.. dropdown:: Filtrer graphiquement les données
 ------------
 
-Créer, modifier et sélectionner une entité
+.. dropdown:: Créer, modifier et sélectionner une entité
 ------------
 
-Exporter des données
+.. dropdown:: Exporter des données
 ------------
 
-Comparer des cartes
+.. dropdown:: Comparer des cartes
 ------------
 
-Mesurer des distances
+.. dropdown:: Mesurer des distances
 ------------
 
 To retrieve a list of random ingredients,

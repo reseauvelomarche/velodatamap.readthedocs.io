@@ -27,7 +27,7 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 .. dropdown:: Circuler entre les cartes
    :open:
 
@@ -37,7 +37,7 @@ Fonctionnalités générales
    .. only:: html
 
       .. figure:: images/gifs/cartes.gif
-
+-----------------------------------------------------------------------------------------------------------------------------------
 
 .. dropdown:: Activer les différentes couches de données
    :animate: fade-in-slide-down

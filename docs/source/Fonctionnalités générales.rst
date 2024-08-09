@@ -27,19 +27,17 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
-----------------------------------------------------------------------------------------------------------------------------------
 
-   .. dropdown:: Circuler entre les cartes
-      :open:
+.. dropdown:: Circuler entre les cartes
+   :open:
+   ----------------------------------------
+   Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
+   Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |cartes| puis en cliquant sur l'une d'entre elles :
 
-      Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
-      Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |cartes| puis en cliquant sur l'une d'entre elles :
+   .. only:: html
 
-      .. only:: html
+      .. figure:: images/gifs/cartes.gif
 
-         .. figure:: images/gifs/cartes.gif
-
------------------------------------------------------------------------------------------------------------------------------------
 
 .. dropdown:: Activer les différentes couches de données
    :animate: fade-in-slide-down

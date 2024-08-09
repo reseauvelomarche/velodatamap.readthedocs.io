@@ -27,7 +27,7 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
----------------------------------------
+
 .. dropdown:: Circuler entre les cartes
    :open:
 
@@ -40,6 +40,7 @@ Fonctionnalités générales
 
 
 .. dropdown:: Activer les différentes couches de données
+   :animate: fade-in-slide-down
 
    Différentes couches de données peuvent être affichées sur chaque carte. Certaines s'affichent par défaut dès le chargement, et d'autres sont désactivées par défaut mais peuvent vous être utiles !
    Cliquez sur |couches| pour accéder à l'interface suivante :

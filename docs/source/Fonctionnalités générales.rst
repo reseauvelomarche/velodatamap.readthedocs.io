@@ -14,7 +14,9 @@ Fonctionnalités générales
 .. |ajout_entite| image:: images/icons/ajout_entite.png
             :width: 30
 .. |modifier| image:: images/icons/modifier_rogne.png
+            :height: 30
 .. |enregistrer| image:: images/icons/enregistrer.png
+            :height: 30
 .. |requeteur| image:: images/icons/requeteur.png
             :width: 30
 .. |extraction| image:: images/icons/extraction.png
@@ -81,7 +83,7 @@ Fonctionnalités générales
 
 .. dropdown:: Modifier une entité
 
-   Pour modifier une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Sélectionnez ensuite l'entité que vous souhaitez modifier en cliquant dessus, appuyez sur |modifier| et n'oubliez pas d'|enregistrer| : 
+   Pour modifier une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Sélectionnez ensuite l'entité que vous souhaitez modifier en cliquant dessus, appuyez sur |modifier| et n'oubliez pas de |enregistrer| : 
 
    .. only:: html
 

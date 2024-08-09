@@ -50,6 +50,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/couches.gif
 
 .. dropdown:: Afficher la légende
+   :animate: fade-in-slide-down
 
    Besoin de comprendre les données qui s'affichent sur la carte ? Affichez la légende propre à chaque carte, toujours en cliquant sur |couches| :
 
@@ -59,6 +60,7 @@ Fonctionnalités générales
 
 
 .. dropdown:: Faire une recherche parmi les données
+   :animate: fade-in-slide-down
 
    Besoin de chercher une donnée en particulier ? Utilisez le bouton |rechercher| pour accéder à l'interface suivante :
 
@@ -67,6 +69,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/rechercher.gif
 
 .. dropdown:: Filtrer graphiquement les données
+   :animate: fade-in-slide-down
 
    Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche suivante :
 
@@ -75,6 +78,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/filtrer.gif
 
 .. dropdown:: Créer une entité
+   :animate: fade-in-slide-down
 
    Pour créer une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Cliquez ensuite sur |ajout_entite| et laissez-vous guider par l'animation suivante :
 
@@ -83,6 +87,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/ajout_entite.gif
 
 .. dropdown:: Modifier une entité
+   :animate: fade-in-slide-down
 
    Pour modifier une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Sélectionnez ensuite l'entité que vous souhaitez modifier en cliquant dessus, appuyez sur |modifier| et n'oubliez pas de |enregistrer| : 
 
@@ -91,6 +96,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/selectionner_et_modifier.gif
 
 .. dropdown:: Exporter des données
+   :animate: fade-in-slide-down
 
    Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_. Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|.
    En cliquant sur le bouton |extraction| vous pourrez télécharger des fichiers géolocalisés au format de votre choix, qui comprendront tous les attributs nécessaires à une bonne exploitation de la donnée. Si vous n'avez besoin que d'un fichier tabulaire ne comprenant que les colonnes s'affichant dans le requêteur, vous pouvez directement cliquer sur |telechargement_tabulaire|.
@@ -101,6 +107,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/exporter.gif
 
 .. dropdown:: Comparer des cartes
+   :animate: fade-in-slide-down
 
    Pour comparer différentes cartes entre elles, il suffit de cliquer sur |comparer| et de choisir la carte avec laquelle vous souhaitez comparer votre carte actuelle. Les zooms sont automatiquement identiques entre les deux cartes, mais vous ne pourrez pas interroger les entités de la carte choisie pour comparaison.
 
@@ -109,6 +116,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/comparer.gif
 
 .. dropdown:: Mesurer des distances
+   :animate: fade-in-slide-down
 
    Mesurer des distances peut être utile, par exemple pour estimer le périmètre d'un regroupement d'équipements avant de l'implanter sur la carte. Le bouton |mesurer| est tout en bas à droite de l'écran.
    

@@ -1,8 +1,6 @@
 Création et gestion de votre compte
 ===================================
 
-.. _creation:
-
 Création d'un compte
 ------------
 

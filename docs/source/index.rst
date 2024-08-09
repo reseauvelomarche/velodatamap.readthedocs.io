@@ -1,4 +1,4 @@
-Bienvenue sur la documentation de Velodatamap !
+Velodatamap - documentation et tutoriel
 ===============================================
 
 Cette plateforme en ligne est proposée par `Vélo & Territoires <https://www.velo-territoires.org>`_ afin de promouvoir et diffuser les données autour des véloroutes françaises.
@@ -10,14 +10,12 @@ Elle est accessible en accès connecté à l'adresse `velodatamap.velo-territoir
 
    Documentation en cours d'écriture.
 
-Chapitres
---------
 
 .. toctree::
 
    Création et gestion de votre compte
    Fonctionnalités générales
    Carte véloroutes
-   Carte équipements vélo, aires de services et haltes-repos
+   Carte équipements vélo & aires de services
    Carte signalement
    Carte cménagements

@@ -1,8 +1,6 @@
 Fonctionnalités générales
 =========================
 
-.. _fonctionnalites:
-
 .. |cartes| image:: images/icons/cartes.png
             :width: 30
 .. |couches| image:: images/icons/couches.png
@@ -15,7 +13,7 @@ Fonctionnalités générales
             :width: 30
 .. |ajout_entite| image:: images/icons/ajout_entite.png
             :width: 30
-.. |modifier| image:: images/icons/modifier.png
+.. |modifier| image:: images/icons/modifier_rogne.png
 .. |enregistrer| image:: images/icons/enregistrer.png
 .. |requeteur| image:: images/icons/requeteur.png
             :width: 30

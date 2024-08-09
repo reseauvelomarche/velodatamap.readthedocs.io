@@ -30,7 +30,7 @@ Fonctionnalités générales
 
 .. dropdown:: Circuler entre les cartes
    :open:
-   
+
    Velodatamap a quatre cartes principales : Véloroutes, Équipement, Signalement et Aménagements.
    Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |cartes| puis en cliquant sur l'une d'entre elles :
 
@@ -48,6 +48,7 @@ Fonctionnalités générales
    .. only:: html
 
       .. figure:: images/gifs/couches.gif
+
 
 .. dropdown:: Afficher la légende
    :animate: fade-in-slide-down
@@ -68,6 +69,7 @@ Fonctionnalités générales
 
       .. figure:: images/gifs/rechercher.gif
 
+
 .. dropdown:: Filtrer graphiquement les données
    :animate: fade-in-slide-down
 
@@ -76,6 +78,7 @@ Fonctionnalités générales
    .. only:: html
 
       .. figure:: images/gifs/filtrer.gif
+
 
 .. dropdown:: Créer une entité
    :animate: fade-in-slide-down
@@ -86,6 +89,7 @@ Fonctionnalités générales
 
       .. figure:: images/gifs/ajout_entite.gif
 
+
 .. dropdown:: Modifier une entité
    :animate: fade-in-slide-down
 
@@ -94,6 +98,7 @@ Fonctionnalités générales
    .. only:: html
 
       .. figure:: images/gifs/selectionner_et_modifier.gif
+
 
 .. dropdown:: Exporter des données
    :animate: fade-in-slide-down
@@ -106,6 +111,7 @@ Fonctionnalités générales
 
       .. figure:: images/gifs/exporter.gif
 
+
 .. dropdown:: Comparer des cartes
    :animate: fade-in-slide-down
 
@@ -114,6 +120,7 @@ Fonctionnalités générales
    .. only:: html
 
       .. figure:: images/gifs/comparer.gif
+
 
 .. dropdown:: Mesurer des distances
    :animate: fade-in-slide-down

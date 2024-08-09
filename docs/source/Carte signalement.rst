@@ -1,9 +1,9 @@
-Module aménagements
+Carte signalement
 =====
 
-.. _amenagement:
+.. _signalement:
 
-Module aménagements
+Carte signalement
 ------------
 
 
@@ -23,4 +23,3 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
-

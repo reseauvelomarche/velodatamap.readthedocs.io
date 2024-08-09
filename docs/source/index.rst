@@ -17,7 +17,7 @@ Chapitres
 
    Création et gestion de votre compte
    Fonctionnalités générales
-   Module véloroutes
-   Module équipements vélo, aires de services et haltes-repos
-   Module signalement
-   Module cménagements
+   Carte véloroutes
+   Carte équipements vélo, aires de services et haltes-repos
+   Carte signalement
+   Carte cménagements

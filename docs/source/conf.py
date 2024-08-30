@@ -38,6 +38,8 @@ html_theme_options = {
     'display_version': False
 }
 
+style_nav_header_background = '#223F82'
+
 html_logo = 'images/logo_velodatamap.png'
 
 # -- Options for EPUB output

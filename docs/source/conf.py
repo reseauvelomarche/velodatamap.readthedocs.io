@@ -38,7 +38,7 @@ html_theme_options = {
     'display_version': False
 }
 
-html_logo = 'images/banniere_vmap.png'
+html_logo = 'images/logo_velodatamap.png'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

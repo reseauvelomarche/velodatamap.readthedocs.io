@@ -6,7 +6,7 @@ Création d'un compte
 
 Si vous êtes une coordination d'itinéraire, nous vous invitons à nous contacter afin d'avoir la liste de tous les comptes activés sur votre itinéraire. À partir de là nous vous transmettrons un formulaire vous permettant de demander de nouvelles créations de compte, ainsi que la modification des droits d'accès de ceux-ci ou encore leur suppression.
 
-Si vous êtes une collectivité individuelle, nous vous invitons à lire le reste de cette documentation pour évaluer si vous auriez un réel usage des fonctions d'édition permises par un compte individuel.
+Si vous êtes une collectivité territoriale, nous vous invitons à lire le reste de cette documentation pour évaluer si vous auriez un réel usage des fonctions d'édition permises par des comptes utilisateurs.
 
 .. dropdown:: Le cas échéant, merci de nous contacter par mail avec les informations suivantes :
 

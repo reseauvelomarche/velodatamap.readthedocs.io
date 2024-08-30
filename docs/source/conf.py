@@ -42,5 +42,13 @@ style_nav_header_background = '#223F82'
 
 html_logo = 'images/logo_velodatamap.png'
 
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "sig-veloterritoires", # Username
+    "github_repo": "velodatamap.readthedocs.io ", # Repo name
+    "github_version": "main", # Version
+    "conf_py_path": "/source/", # Path in the checkout to the docs root
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'

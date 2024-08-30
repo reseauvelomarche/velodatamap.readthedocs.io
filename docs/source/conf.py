@@ -35,10 +35,9 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'logo_only': True,
-    'display_version': False
+    'display_version': False,
+    'style_nav_header_background' : '#223F82'
 }
-
-style_nav_header_background = '#223F82'
 
 html_logo = 'images/logo_velodatamap.png'
 

@@ -18,4 +18,4 @@ Elle est accessible en accès connecté à l'adresse `velodatamap.velo-territoir
    Carte véloroutes
    Carte équipements vélo
    Carte signalement
-   Carte aménagements
+   Carte aménagements cyclables

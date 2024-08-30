@@ -11,7 +11,7 @@ Carte équipements vélo
             :width: 30
 
 Cette carte vous permet de visualiser, gérer et télécharger les données sur les équipements vélo, halte repos et aires de services de votre collectivité.
-Vélo & Territoires a participé à la création d'un `référentiel<https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ visant à harmoniser le recensement et la description de ces infrastructures essentielles au séjour des cyclistes. Velodatamap est une implémentation de ce référentiel, s'appuyant sur la fiche-action n°8 « Équipements, aires de services et haltes repos », produite en janvier 2022.
+Vélo & Territoires a participé à la création d'un `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ visant à harmoniser le recensement et la description de ces infrastructures essentielles au séjour des cyclistes. Velodatamap est une implémentation de ce référentiel, s'appuyant sur la fiche-action n°8 « Équipements, aires de services et haltes repos », produite en janvier 2022.
 La carte « Équipements vélo » a trois utilités :
 - visualiser les équipements et regroupements d'équipements le long des véloroutes françaises (données accessibles à tout le monde) ;
 - planifier une politique d'implantation d'équipements par l'ajout de données (droits d'édition attribués aux collectivités territoriales si besoin) ;
@@ -94,7 +94,7 @@ Lorsqu'un regroupement est créé, il se voit associer tous les itinéraires de 
 
 
 .. note::
-    Vous venez de finaliser un recensement des équipements sur votre territoire, et souhaitez les intégrer à Velodatamap ? Vélo & Territoires se charge de l'intégration de votre premier jeu de données ! Vous trouverez un gabarit de type tableur en téléchargeant le dictionnaire du `référentiel<https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ sur notre site. Contactez-nous afin d'en savoir plus.
+    Vous venez de finaliser un recensement des équipements sur votre territoire, et souhaitez les intégrer à Velodatamap ? Vélo & Territoires se charge de l'intégration de votre premier jeu de données ! Vous trouverez un gabarit de type tableur en téléchargeant le dictionnaire du `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ sur notre site. Contactez-nous afin d'en savoir plus.
     
     
 

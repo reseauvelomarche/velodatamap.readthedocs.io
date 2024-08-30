@@ -1,5 +1,5 @@
-Carte aménagements
-==================
+Carte aménagements cyclables
+============================
 
 .. |amenagements| image:: images/icons/module_amenagements.png
             :width: 30

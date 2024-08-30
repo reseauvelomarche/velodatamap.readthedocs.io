@@ -1,6 +1,8 @@
 Fonctionnalités générales
 =========================
 
+.. _Fonctionnalités générales:
+
 .. |cartes| image:: images/icons/cartes.png
             :width: 30
 .. |couches| image:: images/icons/couches.png

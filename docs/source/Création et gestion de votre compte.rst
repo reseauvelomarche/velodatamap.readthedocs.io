@@ -15,7 +15,7 @@ Si vous êtes une collectivité territoriale, nous vous invitons à lire le rest
    - Prénom :
    - Adresse mail (ne doit pas être partagée avec un autre compte Velodatamap) :
    - Code INSEE de la collectivité territoriale à laquelle vous appartenez :
-   - Si vous faites partie d'une autre structure (PNR, Syndicat d'initiative, Bureau d'étude...) :
+   - Si votre structure n'est pas une collectivité (PNR, Syndicat d'initiative, Bureau d'étude...) :
       - l'ensemble des codes INSEE de vos collectivités adhérentes ou pour le compte desquelles vous intervenez :
       - Nom de votre structure :
    - Accès en édition à la carte équipements : oui/non

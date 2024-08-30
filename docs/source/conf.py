@@ -6,9 +6,6 @@ project = 'Velodatamap'
 copyright = '2024, Vélo & Territoires'
 author = '@IdrissaD'
 
-release = '0.1'
-version = '0.1.0'
-
 # -- General configuration
 
 extensions = [
@@ -19,6 +16,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'myst_parser',
     'sphinx_design',
+    'sphinx.ext.autosectionlabel',
 ]
 
 intersphinx_mapping = {

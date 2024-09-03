@@ -13,11 +13,11 @@ Carte équipements vélo
 Cette carte vous permet de visualiser, gérer et télécharger les données sur les équipements vélo, halte repos et aires de services de votre collectivité.
 Vélo & Territoires a participé à la création d'un `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ visant à harmoniser le recensement et la description de ces infrastructures essentielles au séjour des cyclistes. Velodatamap est une implémentation de ce référentiel, s'appuyant sur la fiche-action n°8 « Équipements, aires de services et haltes repos », produite en janvier 2022.
 
-La carte « Équipements vélo » a trois utilités :
+La carte « Équipements vélo » a trois utilités principales :
 
-- visualiser les équipements et regroupements d'équipements le long des véloroutes françaises (données accessibles à tout le monde) ;
-- planifier une politique d'implantation d'équipements par l'ajout de données (droits d'édition attribués aux collectivités territoriales si besoin) ;
-- diffuser les données via du téléchargement ponctuel (accessible à tout le monde) ou directement auprès de partenaires sélectionnés (France Vélo Tourisme, etc.)
+- visualiser les équipements et regroupements d'équipements le long des véloroutes françaises (accessible sans compte) ;
+- ajouter des données pour permettre leur diffusion ou planifier une politique d'implantation d'équipements (nécessite un compte attribué aux collectivités territoriales si besoin) ;
+- diffuser les données via du téléchargement ponctuel (accessible sans compte) ou directement auprès de partenaires sélectionnés (France Vélo Tourisme, etc.)
 
 Structure des données
 ---------------------
@@ -48,11 +48,11 @@ Données complémentaires
 
 Afin d'aider à la visualisation et la planification, d'autres données sont présentes sur la carte :
 
-- Cercle de 50 mètres de rayon autour de la localisation des regroupements : permet d'évaluer le respect de la bonne pratique associée
-- Véloroutes sur le tracé desquelles des équipements ont été numérisés
-- Isodistance 3 kilomètres des véloroutes citées ci-dessus : permet d'évaluer le respect de la bonne pratique associée
-- Autres véloroutes : permet de visualiser le tracé des autres véloroutes de l'Observatoire national (couche désactivée par défaut)
-- Limites administratives : permet d'afficher les limites administratives françaises, niveau de précision variant selon le zoom
+- ``Regroupement`` : cercle de 50 mètres de rayon autour de la localisation des regroupements. Permet d'évaluer le respect de la bonne pratique associée
+- ``Véloroutes avec équipement`` : véloroutes sur le tracé desquelles des équipements ont été numérisés
+- ``Véloroutes (isodistance 3 km)`` : zones à moins de 3 kilomètres à pied des véloroutes mentionnées ci-dessus. Permet d'évaluer le respect de la bonne pratique associée
+- ``Véloroutes autres`` : permet de visualiser le tracé des autres véloroutes de l'Observatoire national (couche désactivée par défaut)
+- ``Limites administratives`` : permet d'afficher les limites administratives françaises, niveau de précision variant selon le zoom (couche de l'IGN)
 
 
 Interroger des données

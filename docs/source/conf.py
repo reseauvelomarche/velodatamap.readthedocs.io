@@ -17,6 +17,7 @@ extensions = [
     'myst_parser',
     'sphinx_design',
     'sphinx.ext.autosectionlabel',
+    'sphinx_new_tab_link',
 ]
 
 intersphinx_mapping = {

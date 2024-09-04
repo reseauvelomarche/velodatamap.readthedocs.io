@@ -18,7 +18,7 @@ extensions = [
     'sphinx_design',
     'sphinx.ext.autosectionlabel',
     'sphinx_new_tab_link',
-    'sphinx-last-updated-by-git',
+    'sphinx_last_updated_by_git',
 ]
 
 intersphinx_mapping = {

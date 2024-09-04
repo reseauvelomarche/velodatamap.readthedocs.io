@@ -51,6 +51,8 @@ html_theme_options = {
 
 html_logo = 'images/logo_velodatamap.png'
 
+html_last_updated_fmt = '%d %B %Y'
+
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "sig-veloterritoires", # Username

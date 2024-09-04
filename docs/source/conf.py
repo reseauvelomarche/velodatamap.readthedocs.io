@@ -42,15 +42,13 @@ html_css_files = [
 ]
 
 html_theme_options = {
-    'logo_only': False,
+    'logo_only': True,
     'display_version': False,
     'style_nav_header_background' : '#223F82',
     'body_max_width' : 'none',
 }
 
 html_logo = 'images/logo_velodatamap.png'
-
-html_short_title = 'Test short title'
 
 html_context = {
     "display_github": True, # Integrate GitHub

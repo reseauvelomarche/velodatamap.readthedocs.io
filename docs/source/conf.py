@@ -50,6 +50,8 @@ html_theme_options = {
 
 html_logo = 'images/logo_velodatamap.png'
 
+html_short_title = 'Test short title'
+
 html_context = {
     "display_github": True, # Integrate GitHub
     "github_user": "sig-veloterritoires", # Username

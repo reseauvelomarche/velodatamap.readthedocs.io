@@ -42,7 +42,7 @@ html_css_files = [
 ]
 
 html_theme_options = {
-    'logo_only': True,
+    'logo_only': False,
     'display_version': False,
     'style_nav_header_background' : '#223F82',
     'body_max_width' : 'none',

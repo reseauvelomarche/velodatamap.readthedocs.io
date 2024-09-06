@@ -21,3 +21,10 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    Carte équipements vélo
    Carte signalement
    Carte aménagements cyclables
+
+
+Une subvention ministérielle finance la mise en œuvre du projet d'intérêt économique général de stratégie, coordination et visualisation géographique du Schéma national des véloroutes.
+
+.. image:: images/logo_ministere.jpg
+        :width: 600
+        :align: left

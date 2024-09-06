@@ -27,4 +27,4 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    :width: 100
    :align: left
 
-   Une subvention ministérielle finance la mise en œuvre du projet d'intérêt économique général de stratégie, coordination et visualisation géographique du Schéma national des véloroutes.
+Une subvention ministérielle finance la mise en œuvre du projet d'intérêt économique général de stratégie, coordination et visualisation géographique du Schéma national des véloroutes.

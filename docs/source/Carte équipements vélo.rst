@@ -31,7 +31,7 @@ La méthode de classification des regroupements est la suivante :
 .. _tableau:
 
 .. image:: images/tableau_classification_regroupements.png
-        :width: 600
+   :width: 600
 
 
 
@@ -109,4 +109,4 @@ Lorsqu'un regroupement est créé, il se voit associer tous les itinéraires de 
     Vous pouvez télécharger les équipements et les regroupements. Faites votre choix en cliquant sur le bon onglet :
     
     .. image:: images/onglets_requeteur_equipements.png
-        :width: 600
+       :width: 600

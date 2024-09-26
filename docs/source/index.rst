@@ -19,7 +19,7 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    Création et gestion de votre compte
    Fonctionnalités générales
    Carte véloroutes
-   Carte équipement
+   Carte équipements
    Carte signalement
    Carte aménagements cyclables
    Évolutions de Velodatamap

@@ -49,7 +49,7 @@ Juillet 2024
 * Reprise à zéro des formulaires (infobulles, champs interactifs, tableaux des données liées, méthode des équipements et regroupements…)
 * Automatisation :
 
-    * les associations équipement et regroupement se font automatiquement à la création des entités
+    * les associations entre équipements et regroupements se font automatiquement à la création des entités
     * champ ``producteur`` renseigné automatiquement selon le nom de l'organisation associée au compte de l'utilisateur
     * l'importance d'un regroupement est déterminée selon les équipements qui lui sont associés
 

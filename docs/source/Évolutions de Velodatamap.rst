@@ -34,10 +34,11 @@ Juillet 2024
 * Changement de plusieurs icônes et attribution de couleurs aux boutons les plus utiles (connexion, ajout d'entité...)
 
 
+
 **Équipement :**
 
 * Refonte totale de la structure de la base de données
-* Refonte graphique
+* Refonte graphique :
 
     * affichage des périmètres des regroupements et itinéraires
     * icônes adaptées au type d'équipement
@@ -46,20 +47,20 @@ Juillet 2024
     * légende lisible et exhaustive
 
 * Reprise à zéro des formulaires (infobulles, champs interactifs, tableaux des données liées, méthode des équipements et regroupements…)
-* Automatisation
+* Automatisation :
 
     * les associations équipement et regroupement se font automatiquement à la création des entités
     * champ ``producteur`` renseigné automatiquement selon le nom de l'organisation associée au compte de l'utilisateur
     * l'importance d'un regroupement est déterminée selon les équipements qui lui sont associés
 
-* Nouveaux champs
+* Nouveaux champs :
 
     * Login du compte ayant créé/modifié la donnée
     * Date de création/modification
     * Distance entre un équipement et son regroupement associé
     * Distance entre un regroupement et les itinéraires auxquels il est associé
 
-* D'avantage de couches disponibles
+* D'avantage de couches disponibles :
 
     * autres véloroutes (sur lesquelles il n'y a pas de dynamique de numérisation d'équipements)
     * limites administratives IGN

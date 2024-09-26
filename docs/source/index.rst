@@ -18,9 +18,10 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    Création et gestion de votre compte
    Fonctionnalités générales
    Carte véloroutes
-   Carte équipements vélo
+   Carte équipement
    Carte signalement
    Carte aménagements cyclables
+   Évolutions de Velodatamap
 
 
 .. image:: images/logo_ministere.png

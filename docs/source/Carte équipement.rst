@@ -1,5 +1,5 @@
-Carte équipements vélo
-======================
+Carte équipement
+================
 
 .. |ajouter| image:: images/icons/ajouter.png
             :height: 30
@@ -13,7 +13,7 @@ Carte équipements vélo
 Cette carte vous permet de visualiser, gérer et télécharger les données sur les équipements vélo, halte repos et aires de services de votre collectivité.
 Vélo & Territoires a participé à la création d'un `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ visant à harmoniser le recensement et la description de ces infrastructures essentielles au séjour des cyclistes. Velodatamap est une implémentation de ce référentiel, s'appuyant sur la fiche-action n°8 « Équipements, aires de services et haltes repos », produite en janvier 2022.
 
-La carte « Équipements vélo » a trois utilités principales :
+La carte « Équipement » a trois utilités principales :
 
 - visualiser les équipements et regroupements d'équipements le long des véloroutes françaises (accessible sans compte) ;
 - ajouter des données pour permettre leur diffusion ou planifier une politique d'implantation d'équipements (nécessite un compte attribué aux collectivités territoriales si besoin) ;

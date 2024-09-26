@@ -5,6 +5,7 @@ Septembre 2024
 --------------
 
 **Signalement :**
+
 - Le mail est désormais renseigné automatiquement à l'ajout d'un signalement si l'utilisateur est connecté
 - Pour les catégories « Chaussée » et « Travaux », les maîtres d'ouvrage peuvent maintenant définir une date de début et de fin de validité d'un signalement. Le signalement sera automatiquement archivé le lendemain de sa date de fin de validité
 - Seules les véloroutes traversant le territoire de restriction de l'utilisateur connecté sont désormais affichées (simplification visuelle, gain de performances)
@@ -15,6 +16,7 @@ Août 2024
 ---------
 
 **Équipement :**
+
 - Une couche ``Véloroutes (isodistance 3km)`` est ajoutée, qui représente les zones situées à moins de 3 km à pied de chaque véloroute. Cela permet de visualiser la recommandation de la fiche-action n°8 de Vélo & Territoires, qui précise qu'une halte-repos ou une aire de services ne doit pas être à plus de 3 km à vélo d'une véloroute
 - Seules les véloroutes traversant le territoire de restriction de l'utilisateur connecté sont désormais affichées (simplification visuelle, gain de performances)
 - La liste des équipements manquant à un regroupement pour accéder au niveau « Aire de services » est affichée dans sa fiche descriptive
@@ -24,6 +26,7 @@ Juillet 2024
 ------------
 
 **Général :**
+
 - Amélioration des performances de l'application
 - Implémentation de la charte graphique de l'association (logos, couleurs)
 - Pour les utilisateurs ayant une restriction géographique : attribution d'un zoom automatique sur le territoire ou l'itinéraire concerné par la restriction
@@ -32,6 +35,7 @@ Juillet 2024
 
 
 **Équipement :**
+
 - Refonte totale de la structure de la base de données
 - Refonte graphique :
     - affichage des périmètres des regroupements et itinéraires

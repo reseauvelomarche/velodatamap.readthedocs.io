@@ -14,6 +14,7 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
 
 
 .. toctree::
+   :titlesonly:
 
    Création et gestion de votre compte
    Fonctionnalités générales

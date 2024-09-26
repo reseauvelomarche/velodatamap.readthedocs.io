@@ -38,26 +38,34 @@ Juillet 2024
 
 * Refonte totale de la structure de la base de données
 * Refonte graphique
+
     * affichage des périmètres des regroupements et itinéraires
     * icônes adaptées au type d'équipement
     * différenciation visuelle des regroupements selon leur statut et importance
     * différenciation visuelle des équipements selon s'ils sont associés à un regroupement ou non
     * légende lisible et exhaustive
+
 * Reprise à zéro des formulaires (infobulles, champs interactifs, tableaux des données liées, méthode des équipements et regroupements…)
 * Automatisation
+
     * les associations équipement et regroupement se font automatiquement à la création des entités
     * champ ``producteur`` renseigné automatiquement selon le nom de l'organisation associée au compte de l'utilisateur
     * l'importance d'un regroupement est déterminée selon les équipements qui lui sont associés
+
 * Nouveaux champs
+
     * Login du compte ayant créé/modifié la donnée
     * Date de création/modification
     * Distance entre un équipement et son regroupement associé
     * Distance entre un regroupement et les itinéraires auxquels il est associé
+
 * D'avantage de couches disponibles
+
     * autres véloroutes (sur lesquelles il n'y a pas de dynamique de numérisation d'équipements)
     * limites administratives IGN
     * Plan IGN
     * Photographie aérienne IGN
+
 * Possibilité de filtrer les couches équipement et regroupement selon les valeurs des champs
 * Recherche des équipements et regroupements par leur identifiant ou leur nom
 * Données équipements et regroupements disponibles à l'export via le requêteur (licence ODbL)

@@ -11,6 +11,7 @@ Septembre 2024
 * Seules les véloroutes traversant le territoire de restriction de l'utilisateur connecté sont désormais affichées (simplification visuelle, gain de performances)
 * Les champs ``suivistatut`` et ``enquete`` ne sont plus affichés dans le formulaire d'insertion pour les utilisateurs connectés
 * Les champs ``remarque_mo`` et ``docuement_complementaire``  ne sont plus affichés dans le formulaire d'insertion pour les utilisateurs non connectés
+* Le statut par défaut d'un signalement créé par un utilisateur connecté est désormais « En cours de résolution ». Ce statut est modifiable en « Signalé » ou « Pris en compte » dès le formulaire de création si besoin
 
 Août 2024
 ---------
@@ -30,7 +31,6 @@ Juillet 2024
 * Amélioration des performances de l'application
 * Implémentation de la charte graphique de l'association (logos, couleurs)
 * Pour les utilisateurs ayant une restriction géographique : attribution d'un zoom automatique sur le territoire ou l'itinéraire concerné par la restriction
-* Conservation de l'emprise géographique lors du changement de carte
 * Changement de plusieurs icônes et attribution de couleurs aux boutons les plus utiles (connexion, ajout d'entité...)
 
 

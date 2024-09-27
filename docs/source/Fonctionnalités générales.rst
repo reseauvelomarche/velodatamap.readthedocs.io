@@ -102,7 +102,7 @@ Fonctionnalités générales
       .. figure:: images/gifs/selectionner_et_modifier.gif
 
 
-.. dropdown:: Exporter des données
+.. dropdown:: Télécharger des données
    :animate: fade-in-slide-down
 
    Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_. Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|.
@@ -111,7 +111,7 @@ Fonctionnalités générales
 
    .. only:: html
 
-      .. figure:: images/gifs/exporter.gif
+      .. figure:: images/gifs/telecharger.gif
 
 
 .. dropdown:: Comparer des cartes

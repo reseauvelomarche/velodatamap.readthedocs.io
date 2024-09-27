@@ -58,7 +58,7 @@ Afin d'aider à la visualisation et la planification, d'autres données sont pr�
 Interroger des données
 ----------------------
 
-Pour interroger, filtrer ou télécharger les données, voyez la liste des :ref:`Fonctionnalités générales`.
+Pour interroger, filtrer ou télécharger les données, lisez la page des :ref:`Fonctionnalités générales`.
 
 
 Créer et modifier des équipements et regroupements

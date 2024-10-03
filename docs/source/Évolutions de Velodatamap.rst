@@ -1,8 +1,12 @@
 Évolutions de Velodatamap
 =========================
 
-Septembre 2024 
+Septembre 2024
 --------------
+
+**Général :**
+
+* Changement de l'icône de téléchargement de données tabulaires dans le requêteur
 
 **Signalement :**
 

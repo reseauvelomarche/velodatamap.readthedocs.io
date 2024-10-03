@@ -28,10 +28,8 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    Évolutions de Velodatamap
 
 .. toctree::
+   :caption: Contact : sig@velo-territoires.org
    :hidden:
-
-   Contact : sig@velo-territoires.org <self>
-
 
 .. image:: images/logo_ministere.png
    :width: 150

@@ -30,7 +30,7 @@ Fonctionnalités générales
             :width: 30
 
 
-Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des cartes disponibles, sont présentées sur l'image ci-dessous, ainsi que via des images animées (GIFs) plus bas.
+Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des cartes disponibles, sont résumées sur l'image ci-dessous, et chacune d'entre elle est présentée via une image animée (GIF) plus bas.
 
 .. image:: images/resume_fonctionnalites.png
    :width: 100%

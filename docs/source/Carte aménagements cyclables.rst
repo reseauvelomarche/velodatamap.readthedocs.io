@@ -9,7 +9,7 @@ Carte aménagements cyclables
 
 Cette carte présente deux jeux de données produits selon les spécifications du schéma :
 
- - en gris, les données issues de l'export de la base de données OpenStreetMap effectué par GeoVelo. Ces données sont disponibles ici : `transport.data.gouv.fr <https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/>`_ ;
+ - en gris, les données issues de l'export de la base de données OpenStreetMap effectué par GeoVelo. Ces données sont disponibles sur `transport.data.gouv.fr <https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/>`_ ;
  - en rose, les données publiées par les collectivités territoriales au `Point d'Accès National aux données de transport <https://transport.data.gouv.fr/datasets?type=bike-way>`_.
 
 

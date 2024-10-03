@@ -5,7 +5,7 @@ Cette carte vous permet de visualiser et gérer les signalements d'anomalies cyc
 L'outil de signalement des anomalies peut être déployé sur toute véloroute présente dans l'Observatoire national des véloroutes. Basé sur la contribution des cyclistes et sur une identification fine des maîtres d'ouvrage et/ou des gestionnaires, l'outil de signalement offre une solution simple et transparente à la gestion d'anomalies. L'usager est assuré que son information est transmise à la bonne personne et cette dernière lui notifie ensuite la résolution du problème rencontré.
 Pour plus d'informations sur comment le déployer, son fonctionnement général ou ses connexions avec d'autres outils (FVT, Suricate), vous pouvez vous rendre sur `le site de Vélo & Territoires <https://www.velo-territoires.org/observatoires/outil-signalement-anomalies-cyclables/>`_, cette page étant dédiée à l'utilisation de l'outil sur Velodatamap.
 
-Pour sélectionner, filtrer les données ou afficher la légende, lisez la page des :ref:`Fonctionnalités générales`.
+Pour savoir comment interroger les données, les filtrer ou afficher la légende, lisez la page des :ref:`Fonctionnalités générales`.
 
 Consulter des signalements
 --------------------------

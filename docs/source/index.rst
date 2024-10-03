@@ -7,7 +7,7 @@ Sa consultation est libre, et les fonctionnalités d'édition et administration 
 
 Ce site est le manuel d'utilisation du portail, pour une description plus générale, rendez-vous sur `notre site <https://www.velo-territoires.org/observatoires/velodatamap/>`_.
 
-**Contact** : en cas de question ou difficulté d'utilisation, veuillez nous contacter à l'adresse sig@velo-territoires.org
+En cas de question ou difficulté d’utilisation, veuillez nous contacter à l’adresse sig@velo-territoires.org.
 
 ===================================
 

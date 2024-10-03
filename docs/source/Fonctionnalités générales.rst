@@ -29,11 +29,17 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
+
+Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des cartes disponibles, sont présentées sur l'image ci-dessous, ainsi que via des images animées (GIFs) plus bas.
+
+.. image:: images/resume_fonctionnalites.png
+   :width: 100%
+
 .. note::
-   Si les GIFs sont trop petits pour vous, n'hésitez pas à les agrandir avec un clic-droit et l'option « Ouvrir l'image dans un nouvel onglet »
+   Si les GIFs qui suivent sont trop petits pour vous, n'hésitez pas à les agrandir avec un clic-droit et l'option « Ouvrir l'image dans un nouvel onglet »
 
 .. dropdown:: Circuler entre les cartes
-   :open:
+   :animate: fade-in-slide-down
 
    Velodatamap a quatre cartes principales : **Véloroutes**, **Équipements**, **Signalement** et **Aménagements**.
    Vous pouvez circuler entre les différentes cartes en cliquant sur l'icône |cartes| puis en cliquant sur l'une d'entre elles :

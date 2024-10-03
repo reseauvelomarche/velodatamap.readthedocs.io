@@ -26,7 +26,7 @@ Ce site est le manuel d'utilisation du portail, pour une description plus géné
    Carte signalement
    Carte aménagements cyclables
    Évolutions de Velodatamap
-   Contact : sig@velo-territoires.org <http://mailto:sig@velo-territoires.org>
+   Contact : sig@velo-territoires.org <mailto:sig@velo-territoires.org?body=http://>
 
 .. image:: images/logo_ministere.png
    :width: 150

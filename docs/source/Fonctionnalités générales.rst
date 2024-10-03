@@ -29,6 +29,8 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
+.. note::
+   Si les GIFs sont trop petits pour vous, n'hésitez pas à les agrandir avec un clic-droit et l'option « Ouvrir l'image dans un nouvel onglet »
 
 .. dropdown:: Circuler entre les cartes
    :open:
@@ -75,7 +77,7 @@ Fonctionnalités générales
 .. dropdown:: Filtrer graphiquement les données
    :animate: fade-in-slide-down
 
-   Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche suivante :
+   Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche ci-dessous. Si vous souhaitez télécharger le résultat de votre filtre, celui-ci sera actif automatiquement dans le requêteur à son ouverture. Le cas échéant, n'oubliez pas de sélectionner l'option « Filtre en cours » !
 
    .. only:: html
 
@@ -85,7 +87,7 @@ Fonctionnalités générales
 .. dropdown:: Créer une entité
    :animate: fade-in-slide-down
 
-   Pour créer une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Cliquez ensuite sur |ajout_entite| et laissez-vous guider par l'animation suivante :
+   Pour créer une entité, que ce soit un signalement, un équipement ou un regroupement, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Cliquez ensuite sur |ajout_entite| et laissez-vous guider par l'animation suivante :
 
    .. only:: html
 
@@ -105,9 +107,12 @@ Fonctionnalités générales
 .. dropdown:: Télécharger des données
    :animate: fade-in-slide-down
 
-   Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_. Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|.
-   En cliquant sur le bouton |extraction| vous pourrez télécharger des fichiers géolocalisés au format de votre choix, qui comprendront tous les attributs nécessaires à une bonne exploitation de la donnée. Si vous n'avez besoin que d'un fichier tabulaire ne comprenant que les colonnes s'affichant dans le requêteur, vous pouvez directement cliquer sur |telechargement_tabulaire|.
-   N'hésitez pas à utiliser les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin. Une fois la demande formulée, vous recevrez quelques minutes plus tard un mail à l'adresse renseignée, contenant un lien de téléchargement de votre fichier.
+   Toutes les données téléchargeables des cartes véloroutes et équipements sont utilisables sous les conditions de la licence `Open Data Commons Open Database License v1.0 <https://opendatacommons.org/licenses/odbl/summary/>`_.
+   
+   Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|. Téléchargez des fichiers géolocalisés au format de votre choix en cliquant sur le bouton |extraction| ; ils comprendront tous les attributs nécessaires à une bonne exploitation de la donnée. Si vous n'avez besoin que d'un fichier tabulaire ne comprenant que les colonnes s'affichant dans le requêteur, vous pouvez directement cliquer sur |telechargement_tabulaire|.
+   N'hésitez pas à utiliser les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin.
+   
+   Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes.
 
    .. only:: html
 
@@ -117,7 +122,7 @@ Fonctionnalités générales
 .. dropdown:: Comparer des cartes
    :animate: fade-in-slide-down
 
-   Pour comparer différentes cartes entre elles, il suffit de cliquer sur |comparer| et de choisir la carte avec laquelle vous souhaitez comparer votre carte actuelle. Les zooms sont automatiquement identiques entre les deux cartes, mais vous ne pourrez pas interroger les entités de la carte choisie pour comparaison.
+   Pour comparer différentes cartes entre elles, il suffit de cliquer sur |comparer| et de choisir la carte avec laquelle vous souhaitez comparer votre carte actuelle. Le zoom des deux cartes est ajusté automatiquement pour rester identique. Vous ne pourrez pas sélectionner et interroger les entités de la carte de droite.
 
    .. only:: html
 

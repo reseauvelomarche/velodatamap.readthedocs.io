@@ -5,18 +5,21 @@ Carte aménagements cyclables
             :width: 30
 
 
-Cette carte présente deux jeux de données :
- - en gris, les données issues de l'export de la base de données OpenStreetMap effectué par GeoVelo. Ces données sont trouvables ici : `transport.data.gouv.fr <https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/>`_ ;
- - en rose, les données publiées par les collectivités territoriales au `Point d'Accès National aux données de transport <https://transport.data.gouv.fr/datasets?type=bike-way>`_, conformes au `schéma de données d'aménagements cyclables <https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html>`_.
+« Un aménagement cyclable est un dispositif de voirie destiné à organiser la circulation des cycles non motorisés » (`Wikipedia <https://fr.wikipedia.org/wiki/Am%C3%A9nagement_cyclable>`_). Dans un contexte où le déploiement des aménagements cyclables s'accélère et la pratique du vélo est en constante progression, il est stratégique de recenser ces infrastructures et de parler le même langage pour le faire. C'est pourquoi Vélo & Territoires, en partenariat avec Transport.data.gouv, a été à l'initiative de la création d'un `schéma de données des aménagements cyclables <https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html>`_.
+
+Cette carte présente deux jeux de données produits selon les spécifications du schéma :
+
+ - en gris, les données issues de l'export de la base de données OpenStreetMap effectué par GeoVelo. Ces données sont disponibles ici : `transport.data.gouv.fr <https://transport.data.gouv.fr/datasets/amenagements-cyclables-france-metropolitaine/>`_ ;
+ - en rose, les données publiées par les collectivités territoriales au `Point d'Accès National aux données de transport <https://transport.data.gouv.fr/datasets?type=bike-way>`_.
 
 
 L'agrégation des deux sources de données est effectuée par Vélo & Territoires chaque année.
 
-Un module spécial, accessible en cliquant sur |amenagements|, permet d'obtenir des statistiques à tout échelon territorial, des régions jusqu'aux EPCI :
+Un module spécial, accessible en cliquant sur |amenagements|, permet d'obtenir des statistiques (linéaire réalisé, linéaire de voies vertes...) à tout échelon territorial, des régions jusqu'aux EPCI :
 
 .. only:: html
 
     .. figure:: images/gifs/module_amenagements.gif
 
 .. note::
-    Le téléchargement, le filtre ou la recherche d'aménagements ne sont pas encore disponibles sur cette carte.
+    Le téléchargement, le filtre ou la recherche d'aménagements ne sont pas encore disponibles sur cette carte. Ces fonctionnalités seront ajoutées dans les prochains mois.

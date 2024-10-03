@@ -1,6 +1,9 @@
 Évolutions de Velodatamap
 =========================
 
+.. note::
+    Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous présentant le travail de l'équipe SIG de Vélo & Territoires ainsi qu'une liste des nouvelles fonctionnalités disponibles sur l'application.
+
 Septembre 2024
 --------------
 
@@ -20,12 +23,12 @@ Septembre 2024
 Août 2024
 ---------
 
-**Équipement :**
+**Équipements :**
 
 * Une couche ``Véloroutes (isodistance 3km)`` est ajoutée, qui représente les zones situées à moins de 3 km à pied de chaque véloroute. Cela permet de visualiser la recommandation de la fiche-action n°8 de Vélo & Territoires, qui précise qu'une halte-repos ou une aire de services ne doit pas être à plus de 3 km à vélo d'une véloroute
 * Seules les véloroutes traversant le territoire de restriction de l'utilisateur connecté sont désormais affichées (simplification visuelle, gain de performances)
 * La liste des équipements manquant à un regroupement pour accéder au niveau « Aire de services » est affichée dans sa fiche descriptive
-* Il est désormais impossible de créer un équipement ou un regroupement à plus de 3 km d'une véloroute "activée", c'est-à-dire qui s'affiche dans la couche ``Véloroute avec équipement``
+* Il est désormais impossible de créer un équipement ou un regroupement à plus de 3 km d'une véloroute "activée", c'est-à-dire qui s'affiche dans la couche ``Véloroute avec équipements``
 
 Juillet 2024
 ------------
@@ -39,13 +42,13 @@ Juillet 2024
 
 
 
-**Équipement :**
+**Équipements :**
 
 * Refonte totale de la structure de la base de données
 * Refonte graphique :
 
     * affichage des périmètres des regroupements et itinéraires
-    * icônes adaptées au type d'équipement
+    * icônes adaptées aux types d'équipements
     * différenciation visuelle des regroupements selon leur statut et importance
     * différenciation visuelle des équipements selon s'ils sont associés à un regroupement ou non
     * légende lisible et exhaustive
@@ -71,7 +74,7 @@ Juillet 2024
     * Plan IGN
     * Photographie aérienne IGN
 
-* Possibilité de filtrer les couches équipement et regroupement selon les valeurs des champs
+* Possibilité de filtrer les couches ``Equipement`` et ``Regroupement`` selon les valeurs des champs
 * Recherche des équipements et regroupements par leur identifiant ou leur nom
 * Données équipements et regroupements disponibles à l'export via le requêteur (licence ODbL)
 * Mise en place d'un système de restriction géographique (empêche de modifier des données en-dehors de sa collectivité ou de son itinéraire)

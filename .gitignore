@@ -1,5 +1,8 @@
+### Custom gitignore
 
-# Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
+*.docx
+
+### Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
 ### JupyterNotebooks ###

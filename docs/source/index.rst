@@ -26,6 +26,10 @@ En cas de question ou difficulté d’utilisation, veuillez nous contacter à l�
    Carte signalement
    Carte aménagements cyclables
    Évolutions de Velodatamap
+
+.. toctree::
+   :hidden:
+   
    Contact : sig@velo-territoires.org <mailto:sig@velo-territoires.org?subject=Velodatamap%20-%20Question%20issue%20de%20https://velodatamap.rtfd.org>
 
 .. image:: images/logo_ministere.png

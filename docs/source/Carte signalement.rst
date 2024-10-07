@@ -29,7 +29,10 @@ Mode public
 
 La carte « Signalement » est accessible à toute personne souhaitant consulter les signalements ou en créer un, sans avoir besoin de se connecter ou d'avoir un compte Velodatamap.
 
-.. figure:: images/gifs/creation_signalement_usager.gif
+.. dropdown:: Lancer l'animation « Créer un signalement »
+   :animate: fade-in-slide-down
+   
+   .. figure:: images/gifs/creation_signalement_usager.gif
 
 Mode connecté
 ^^^^^^^^^^^^^
@@ -45,7 +48,10 @@ De plus, certains champs sont automatiquement renseignés :
 - ``Email`` : automatiquement renseignée à partir de l'adresse rattachée au compte Velodatamap
 - ``Statut`` : fixé par défaut à ``En cours de résolution``. Ce statut reste modifiable pendant la création d'un signalement si besoin
 
-.. figure:: images/gifs/creation_signalement_mo.gif
+.. dropdown:: Lancer l'animation « Créer un signalement »
+   :animate: fade-in-slide-down
+   
+   .. figure:: images/gifs/creation_signalement_mo.gif
 
 
 Modifier un signalement
@@ -57,7 +63,10 @@ Les gestionnaires peuvent apporter une réponse et des compléments d'informatio
 
 Le statut d'un signalement peut être modifié pour refléter l'évolution de la prise en charge de l'anomalie. Lorsqu'une anomalie est résolue, le statut ``Résolu`` entraînera l'archivage du signalement après une semaine, et donc sa disparition de la carte. Ce délai permet à la personne ayant effectué le signalement de consulter les dernières mises à jour du gestionnaire avant l'archivage du signalement.
 
-.. figure:: images/gifs/modification_signalement.gif
+.. dropdown:: Lancer l'animation « Modifier un signalement »
+   :animate: fade-in-slide-down
+   
+   .. figure:: images/gifs/modification_signalement.gif
 
 
 

@@ -73,7 +73,10 @@ Le formulaire de création d'un équipement n'a qu'un seul champ obligatoire, le
 
 Lorsqu'un équipement est créé à moins de 50 mètres d'un regroupement (soit dans le cercle représentant ce dernier), il lui est automatiquement associé. **Un équipement ne peut être associé qu'à un seul regroupement**, il sera donc associé au plus proche s'il se trouve dans le périmètre de plusieurs regroupements. Cette association automatique ne se fait qu'à la création d'un équipement, et jamais à sa modification.
 
-.. figure:: images/gifs/creation_equipement.gif
+.. dropdown:: Lancer l'animation « Créer un équipement »
+   :animate: fade-in-slide-down
+   
+   .. figure:: images/gifs/creation_equipement.gif
 
 
 Pour modifier un équipement, il suffit de cliquer sur son icône, et ensuite sur |modifier|. Tous les champs sont modifiables, et le regroupement associé peut également être changé.
@@ -87,7 +90,10 @@ Lorsqu'un regroupement est créé, tous les équipements situés à moins de 50 
 
 Pour se voir attribuer une des catégories d'importance, **un regroupement doit non seulement s'être vu associer tous les types d'équipement obligatoires** décrits dans le tableau_ de classification, **mais aussi comprendre 75 % ou plus de ces équipements dans son périmètre de 50 mètres**. Ainsi, pour se voir classer en halte-repos, un regroupement doit comprendre les deux équipements obligatoires dans son périmètre. Pour se voir classer en aire de services, trois équipements sur les quatre obligatoires présents dans le périmètre suffisent. Ceci permet une certaine flexibilité aux gestionnaires, avec un des quatre équipements obligatoires pouvant être à plus de 50 mètres du centre du regroupement.
 
-.. figure:: images/gifs/creation_regroupement.gif
+.. dropdown:: Lancer l'animation « Créer un regroupement »
+   :animate: fade-in-slide-down
+   
+   .. figure:: images/gifs/creation_regroupement.gif
 
 
 Pour modifier un regroupement, il suffit de cliquer sur son icône, et ensuite sur |modifier|. Tous les champs sont modifiables. Les équipements associés sont dissociables via l'onglet ``Équipements associés``, et on peut associer d'autres équipements via le même tableau et le bouton |ajouter_datatable|.

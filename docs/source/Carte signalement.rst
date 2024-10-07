@@ -14,7 +14,7 @@ Consulter des signalements
 
 Les signalements sont consultables par toute personne, ayant un compte Velodatamap ou non, accédant à la carte. En mode connecté, vous n'aurez accès qu'aux signalements et itinéraires correspondant à vos restrictions géographiques et d'itinéraires. Cela permet de vous concentrer sur les données qui vous intéressent.
 
-.. image:: images/legende_signalements.png
+.. figure:: images/legende_signalements.png
    :width: 250
    :align: left
 
@@ -36,11 +36,14 @@ La carte « Signalement » est accessible à toute personne souhaitant consulter
 Mode connecté
 ^^^^^^^^^^^^^
 
-Les seuls utilisateurs ayant accès à la carte « Signalement » en mode connecté sont les gestionnaires et maîtres d'ouvrage identifiés le long des itinéraires ayant déployé l'outil. D'avantage de champs leur sont accessibles lors de la création d'un signalement :
+Les seuls utilisateurs ayant accès à la carte « Signalement » en mode connecté sont les gestionnaires et maîtres d'ouvrage identifiés le long des itinéraires ayant déployé l'outil.
+D'avantage de champs leur sont accessibles lors de la création d'un signalement :
+
 - ``Date de début de validité`` et ``Date de fin de validité`` : permettent de définir une période de validité pour un signalement. Ces champs ne sont disponibles que pour les catégories de signalement ``Chaussée`` et ``Travaux``. Un signalement ayant une date de fin de validité sera automatiquement archivé la nuit suivant la date renseignée, vous n'aurez ainsi pas à retourner sur Velodatamap pour le faire manuellement.
 - ``Document complémentaire`` : permet de renseigner une URL vers un document externe (arrêté municipal, plan de déviation...)
 
 De plus, certains champs sont automatiquement renseignés :
+
 - ``Email`` : automatiquement renseignée à partir de l'adresse rattachée au compte Velodatamap
 - ``Statut`` : fixé par défaut à ``En cours de résolution``. Ce statut reste modifiable pendant la création d'un signalement si besoin
 

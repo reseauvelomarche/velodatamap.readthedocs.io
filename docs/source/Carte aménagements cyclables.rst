@@ -17,9 +17,7 @@ L'agrégation des deux sources de données est effectuée par Vélo & Territoire
 
 Un module spécial, accessible en cliquant sur |amenagements|, permet d'obtenir des statistiques (linéaire réalisé, linéaire de voies vertes...) à tout échelon territorial, des régions jusqu'aux EPCI :
 
-.. only:: html
-
-    .. figure:: images/gifs/module_amenagements.gif
+.. figure:: images/gifs/module_amenagements.gif
 
 .. note::
     Le téléchargement, le filtre ou la recherche d'aménagements ne sont pas encore disponibles sur cette carte. Ces fonctionnalités seront ajoutées dans les prochains mois.

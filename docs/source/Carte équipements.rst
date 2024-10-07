@@ -30,7 +30,7 @@ La méthode de classification des regroupements est la suivante :
 
 .. _tableau:
 
-.. image:: images/tableau_classification_regroupements.png
+.. figure:: images/tableau_classification_regroupements.png
    :width: 600
 
 
@@ -104,5 +104,5 @@ Lorsqu'un regroupement est créé, il se voit associer toutes les véloroutes de
 .. note::
     Le requêteur vous permet de télécharger les équipements et les regroupements. Choisissez votre donnée en cliquant sur le bon onglet :
     
-    .. image:: images/onglets_requeteur_equipements.png
+    .. figure:: images/onglets_requeteur_equipements.png
        :width: 600

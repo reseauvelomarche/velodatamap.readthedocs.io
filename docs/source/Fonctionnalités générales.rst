@@ -32,7 +32,7 @@ Fonctionnalités générales
 
 Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des cartes disponibles, sont résumées sur l'image ci-dessous, et chacune d'entre elle est présentée via une image animée (GIF) plus bas.
 
-.. image:: images/resume_fonctionnalites.png
+.. figure:: images/resume_fonctionnalites.png
    :width: 100%
 
 .. note::
@@ -53,9 +53,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    Différentes couches de données peuvent être affichées sur chaque carte. Certaines s'affichent par défaut dès le chargement, et d'autres sont désactivées par défaut mais peuvent vous être utiles !
    Cliquez sur |couches| pour accéder à l'interface suivante :
 
-   .. only:: html
-
-      .. figure:: images/gifs/couches.gif
+   .. figure:: images/gifs/couches.gif
 
 
 .. dropdown:: Afficher la légende
@@ -63,9 +61,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Besoin de comprendre les données qui s'affichent sur la carte ? Affichez la légende propre à chaque carte, toujours en cliquant sur |couches| :
 
-   .. only:: html
-
-      .. figure:: images/gifs/legende.gif
+   .. figure:: images/gifs/legende.gif
 
 
 .. dropdown:: Faire une recherche parmi les données
@@ -73,9 +69,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Besoin de chercher une donnée en particulier ? Utilisez le bouton |rechercher| pour accéder à l'interface suivante :
 
-   .. only:: html
-
-      .. figure:: images/gifs/rechercher.gif
+   .. figure:: images/gifs/rechercher.gif
 
 
 .. dropdown:: Filtrer graphiquement les données
@@ -83,9 +77,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche ci-dessous. Si vous souhaitez télécharger le résultat de votre filtre, celui-ci sera actif automatiquement dans le requêteur à son ouverture. Le cas échéant, n'oubliez pas de sélectionner l'option « Filtre en cours » !
 
-   .. only:: html
-
-      .. figure:: images/gifs/filtrer.gif
+   .. figure:: images/gifs/filtrer.gif
 
 
 .. dropdown:: Créer une entité
@@ -93,9 +85,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Pour créer une entité, que ce soit un signalement, un équipement ou un regroupement, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Cliquez ensuite sur |ajout_entite| et laissez-vous guider par l'animation suivante :
 
-   .. only:: html
-
-      .. figure:: images/gifs/ajout_entite.gif
+   .. figure:: images/gifs/ajout_entite.gif
 
 
 .. dropdown:: Modifier une entité
@@ -103,9 +93,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Pour modifier une entité, assurez-vous d'être connecté·e, ce qui est le cas si l'icône en haut à droite est |connecte|. Sélectionnez ensuite l'entité que vous souhaitez modifier en cliquant dessus, appuyez sur |modifier| et n'oubliez pas de |enregistrer| : 
 
-   .. only:: html
-
-      .. figure:: images/gifs/selectionner_et_modifier.gif
+   .. figure:: images/gifs/selectionner_et_modifier.gif
 
 
 .. dropdown:: Télécharger des données
@@ -118,9 +106,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    
    Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes.
 
-   .. only:: html
-
-      .. figure:: images/gifs/telecharger.gif
+   .. figure:: images/gifs/telecharger.gif
 
 
 .. dropdown:: Comparer des cartes
@@ -128,9 +114,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Pour comparer différentes cartes entre elles, il suffit de cliquer sur |comparer| et de choisir la carte avec laquelle vous souhaitez comparer votre carte actuelle. Le zoom des deux cartes est ajusté automatiquement pour rester identique. Vous ne pourrez pas sélectionner et interroger les entités de la carte de droite.
 
-   .. only:: html
-
-      .. figure:: images/gifs/comparer.gif
+   .. figure:: images/gifs/comparer.gif
 
 
 .. dropdown:: Mesurer des distances
@@ -138,6 +122,4 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Mesurer des distances peut être utile, par exemple pour estimer le périmètre d'un regroupement d'équipements avant de l'implanter sur la carte. Le bouton |mesurer| est tout en bas à droite de l'écran.
    
-   .. only:: html
-
-      .. figure:: images/gifs/mesurer.gif
+   .. figure:: images/gifs/mesurer.gif

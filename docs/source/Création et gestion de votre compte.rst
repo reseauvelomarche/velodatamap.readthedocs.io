@@ -35,6 +35,8 @@ Pour avoir un accès à vos données personnelles, les modifier ou les supprimer
 
 Votre compte et les données personnelles associées seront supprimées après deux ans d'inactivité.
 
-Pour modifier votre mot de passe, il suffit d'accéder à `l'interface de connexion <https://velodatamap.velo-territoires.org/vmap/login>`_ et de suivre la démarche suivante :
+.. dropdown:: Modifier son mot de passe
+   
+   Pour modifier votre mot de passe, il suffit d'accéder à `l'interface de connexion <https://velodatamap.velo-territoires.org/vmap/login>`_ et de suivre la démarche suivante :
 
-.. figure:: images/gifs/oubli_mot_de_passe.gif
+   .. figure:: images/gifs/oubli_mot_de_passe.gif

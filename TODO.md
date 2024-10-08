@@ -1,6 +1,6 @@
 # Gestion et création de compte
 
-- attendre formulaire de création de compte pour mettre le lien + refaire le GIF de modification du mot de passe
+- attendre formulaire de création de compte pour mettre le lien
 
 # Véloroutes
 

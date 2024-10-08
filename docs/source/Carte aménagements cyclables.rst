@@ -5,7 +5,7 @@ Carte aménagements cyclables
             :width: 30
 
 
-« Un aménagement cyclable est un dispositif de voirie destiné à organiser la circulation des cycles non motorisés » (`Wikipedia <https://fr.wikipedia.org/wiki/Am%C3%A9nagement_cyclable>`_). Dans un contexte où le déploiement des aménagements cyclables s'accélère et la pratique du vélo est en constante progression, il est stratégique de recenser ces infrastructures et de parler le même langage pour le faire. C'est pourquoi Vélo & Territoires, en partenariat avec Transport.data.gouv, a été à l'initiative de la création d'un `schéma de données des aménagements cyclables <https://schema.data.gouv.fr/etalab/schema-amenagements-cyclables/latest.html>`_.
+« Un aménagement cyclable est un dispositif de voirie destiné à organiser la circulation des cycles non motorisés » (`Wikipedia <https://fr.wikipedia.org/wiki/Am%C3%A9nagement_cyclable>`_). Dans un contexte où le déploiement des aménagements cyclables s'accélère et la pratique du vélo est en constante progression, il est stratégique de recenser ces infrastructures et de parler le même langage pour le faire. C'est pourquoi Vélo & Territoires, en partenariat avec Transport.data.gouv, a été à l'initiative de la création d'un `schéma de données des aménagements cyclables <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/schema-donnees-amenagements-cyclables/>`_.
 
 Cette carte présente deux jeux de données produits selon les spécifications du schéma :
 

@@ -1,5 +1,5 @@
-Velodatamap - documentation et tutoriel
-=======================================
+Velodatamap - documentation et tutoriels
+========================================
 
 Velodatamap est le portail cartographique de `Vélo & Territoires <https://www.velo-territoires.org>`_ permettant de gérer, visualiser et télécharger des données autour des véloroutes françaises et des aménagements cyclables.
 
@@ -7,7 +7,7 @@ Sa consultation est libre, et les fonctionnalités d'édition et administration 
 
 Ce site est le manuel d'utilisation du portail, pour une description plus générale, rendez-vous sur `notre site <https://www.velo-territoires.org/observatoires/velodatamap/>`_.
 
-En cas de question ou difficulté d’utilisation, veuillez nous contacter à l’adresse sig@velo-territoires.org.
+En cas de question ou difficulté d'utilisation, veuillez nous contacter à l'adresse sig@velo-territoires.org.
 
 ===================================
 

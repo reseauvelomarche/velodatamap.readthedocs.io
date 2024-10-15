@@ -79,15 +79,34 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Pour filtrer sur les valeurs d'un champ, plusieurs opérateurs de comparaison sont disponibles :
    
-   +--------------+-------------------------------------------------------------+
-   | Opérateur    | Valeur du champ des données sélectionnées                   |
-   +==============+=============================================================+
-   | =            | Strictement égale à la valeur renseignée dans le filtre     |
-   | ~            | Contient la valeur renseignée dans le filtre                |
-   | !=           | Strictement non égale à la valeur renseignée dans le filtre |
-   | Existe       | Non nulle                                                   |
-   | N'existe pas | Nulle                                                       |
-   +--------------+-------------------------------------------------------------+
+   .. raw:: html
+
+      <table>
+         <tr>
+            <td>Opérateur</td>
+            <td>Valeur du champ des données sélectionnées</td>
+         </tr>
+         <tr>
+            <td>=</td>
+            <td>Strictement égale à la valeur renseignée dans le filtre</td>
+         </tr>
+         <tr>
+            <td>~</td>
+            <td>Contient la valeur renseignée dans le filtre</td>
+         </tr>
+         <tr>
+            <td>!=</td>
+            <td>Strictement non égale à la valeur renseignée dans le filtre</td>
+         </tr>
+         <tr>
+            <td>Existe</td>
+            <td>Non nulle</td>
+         </tr>
+         <tr>
+            <td>N&#39;existe pas</td>
+            <td>Nulle</td>
+         </tr>
+      </table>
 
    .. figure:: images/gifs/filtrer.gif
 

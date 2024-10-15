@@ -75,34 +75,34 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 .. dropdown:: Filtrer graphiquement les données
    :animate: fade-in-slide-down
 
-   Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche ci-dessous. Si vous souhaitez télécharger le résultat de votre filtre, celui-ci sera actif automatiquement dans le requêteur à son ouverture. Le cas échéant, n'oubliez pas de sélectionner l'option « Filtre en cours » !
+   Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche ci-dessous. Si vous souhaitez télécharger le résultat de votre filtre, celui-ci sera actif automatiquement dans le requêteur à son ouverture. Le cas échéant, n'oubliez pas de sélectionner l'option « Filtre en cours » !  Vous pouvez combiner plusieurs filtres sur des champs différents, en choisissant comme opérateur général ``Et`` ou ``Ou``.
 
-   Pour filtrer sur les valeurs d'un champ, appelons-le ``statut``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du ``statut`` pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles dépendent du type de ``statut``.
+   Pour filtrer sur les valeurs d'un champ, par exemple ``statut``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du champ filtré pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles dépendent du type du champ.
    
-   Les opérateurs suivants sont disponibles quel que soit le type de ``statut`` :
+   Les opérateurs suivants sont disponibles quel que soit le type du champ filtré :
 
-   - ``Existe`` renvoie les données pour lesquelles ``statut`` a une valeur. Exemple : ``statut = "Halte-repos"``
-   - ``N'existe pas`` renvoie les données pour lesquelles ``statut`` n'a pas de valeur. Exemple : ``statut = null``
+   - ``Existe`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple : ``statut = "Halte-repos"``
+   - ``N'existe pas`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple : ``statut = null``
 
    Les opérateurs suivants sont disponibles pour les champs de type textuel :
    
-   - ``=`` renvoie les données pour lesquelles ``statut`` est strictement égal à la valeur de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "Halte-repos"``
-   - ``~`` renvoie les données pour lesquelles ``statut`` contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
-   - ``!=`` renvoie les données pour lesquelles ``statut`` n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "Halte-repos"``
+   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
+   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
 
    Les opérateurs suivants sont disponibles pour les champs de type booléen (Vrai/Faux) :
 
-   - ``Est vrai`` renvoie les données pour lesquelles ``statut`` a la valeur booléenne "true". Exemple : ``statut = true``
-   - ``Est faux`` renvoie les données pour lesquelles ``statut`` a la valeur booléenne "false". Exemple : ``statut = false``
+   - ``Est vrai`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "true". Exemple : ``statut = true``
+   - ``Est faux`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "false". Exemple : ``statut = false``
 
    Les opérateurs suivants sont disponibles pour les champs de type numérique ou date :
 
-   - ``=`` renvoie les données pour lesquelles ``statut`` est strictement égal à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
-   - ``!=`` renvoie les données pour lesquelles ``statut`` n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 4``
-   - ``<`` renvoie les données pour lesquelles ``statut`` est inférieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 6``
-   - ``<=`` renvoie les données pour lesquelles ``statut`` est inférieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
-   - ``>`` renvoie les données pour lesquelles ``statut`` est supérieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 3``
-   - ``>=`` renvoie les données pour lesquelles ``statut`` est supérieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
+   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 4``
+   - ``<`` renvoie les données pour lesquelles le champ filtré est inférieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 6``
+   - ``<=`` renvoie les données pour lesquelles le champ filtré est inférieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
+   - ``>`` renvoie les données pour lesquelles le champ filtré est supérieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 3``
+   - ``>=`` renvoie les données pour lesquelles le champ filtré est supérieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
 
 
    .. figure:: images/gifs/filtrer.gif
@@ -131,15 +131,14 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    
    Pour accéder à l'interface de téléchargement, le requêteur, cliquez sur |requeteur|. Téléchargez des fichiers géolocalisés au format de votre choix en cliquant sur le bouton |extraction| ; ils comprendront tous les attributs nécessaires à une bonne exploitation de la donnée. Si vous n'avez besoin que d'un fichier tabulaire ne comprenant que les colonnes s'affichant dans le requêteur, vous pouvez directement cliquer sur |telechargement_tabulaire|.
    
-   N'hésitez pas à utiliser les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin. Pour filtrer sur les valeurs d'un champ, appelons-le ``commune``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du ``statut`` pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles sont :
+   N'hésitez pas à utiliser et combiner les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin. Pour filtrer sur les valeurs d'un champ, par exemple ``commune``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du champ filtré pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles sont :
 
-   - ``~`` renvoie les données pour lesquelles ``commune`` contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "lyon"``
-   - ``=`` renvoie les données pour lesquelles ``commune`` est strictement égal à la valeur de filtre. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon"``
-   - ``est parmi`` renvoie les données pour lesquelles ``commune`` est comprise dans la sélection de valeurs que vous renseignerez. Équivalent de l'opérateur SQL ``IN``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon, Lyon, Paris"``
-   - ``est vide`` renvoie les données pour lesquelles ``commune`` n'a pas de valeur. Exemple : ``commune = null``
-   - ``n'est pas vide`` renvoie les données pour lesquelles ``commune`` a une valeur. Exemple : ``commune = "Sainte-Foy-lès-Lyon"``
+   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "lyon"``
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon"``
+   - ``est parmi`` renvoie les données pour lesquelles le champ filtré est comprise dans la sélection de valeurs que vous renseignerez. Équivalent de l'opérateur SQL ``IN``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon, Lyon, Paris"``
+   - ``est vide`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple : ``commune = null``
+   - ``n'est pas vide`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple : ``commune = "Sainte-Foy-lès-Lyon"``
 
-   
    Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes.
 
    .. figure:: images/gifs/telecharger.gif

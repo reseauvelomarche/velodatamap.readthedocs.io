@@ -77,6 +77,18 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
 
    Si vous souhaitez n'afficher que certaines données d'une couche, alors cliquez sur le bouton |filtrer| et suivez la démarche ci-dessous. Si vous souhaitez télécharger le résultat de votre filtre, celui-ci sera actif automatiquement dans le requêteur à son ouverture. Le cas échéant, n'oubliez pas de sélectionner l'option « Filtre en cours » !
 
+   Pour filtrer sur les valeurs d'un champ, plusieurs opérateurs de comparaison sont disponibles :
+   +--------------+-------------------------------------------------------------+--+--+--+--+--+--+--+--+
+   | Opérateur    | Valeur du champ des données sélectionnées                   |  |  |  |  |  |  |  |  |
+   +==============+=============================================================+==+==+==+==+==+==+==+==+
+   | =            | Strictement égale à la valeur renseignée dans le filtre     |  |  |  |  |  |  |  |  |
+   | ~            | Contient la valeur renseignée dans le filtre                |  |  |  |  |  |  |  |  |
+   | !=           | Strictement non égale à la valeur renseignée dans le filtre |  |  |  |  |  |  |  |  |
+   | Existe       | Non nulle                                                   |  |  |  |  |  |  |  |  |
+   | N'existe pas | Nulle                                                       |  |  |  |  |  |  |  |  |
+   +--------------+-------------------------------------------------------------+--+--+--+--+--+--+--+--+
+
+
    .. figure:: images/gifs/filtrer.gif
 
 

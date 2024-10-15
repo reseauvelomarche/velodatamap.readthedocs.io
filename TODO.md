@@ -6,3 +6,7 @@
 
 - Attendre refonte
 - Expliquer symbologie et types de données
+
+# Fonctionnalités générales
+
+- Dropdown et GIF de sélection géo-graphique des données

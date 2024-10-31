@@ -4,6 +4,26 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
 
+Octobre 2024
+--------------
+**Véloroutes :**
+
+* Refonte graphique :
+
+    * Remplacement de l'ancienne couche segment par 3 nouvelles (avancement, infrastructure et schéma)
+    * ajout de la couche portion
+    * ajout de la couche itinéraire
+    * ajout de la couche liaison
+
+* D'avantage de couches disponibles :
+    * limites administratives IGN
+    * Plan IGN
+    * Photographie aérienne IGN
+
+* Optimisation des performances graphiques
+* Création d'un nouveau champ "numéro et nom" plus fonctionnel sur l'ensemble des couches
+* Liaisons cyclables désormais disponibles en téléchargement
+
 Septembre 2024
 --------------
 

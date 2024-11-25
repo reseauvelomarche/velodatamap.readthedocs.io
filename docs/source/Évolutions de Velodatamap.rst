@@ -4,6 +4,23 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
 
+Novembre 2024
+--------------
+**Observatoire national des véloroutes :**
+
+* Refonte graphique :
+
+    * remplacement de la carte "Véloroutes" par trois cartes "Avancement", "Infrastructure" et "Niveua de schéma", mettant chacune en valeur les mêmes données de l'ONV, mais avec un point de vue différent
+
+* D'avantage de couches disponibles :
+    * Monuments nationaux
+    * Les Plus Beaux Villages de France
+
+**Équipements :**
+
+* Un équipement ne peut désormais plus être associé à un regroupement se trouvant à plus de 500 mètres de lui
+* Les photo ajoutées à des équipements ne peuvent plus avoir un nom dépassant 60 caractères (extension du fichier comprise)
+
 Octobre 2024
 --------------
 **Véloroutes :**
@@ -21,7 +38,7 @@ Octobre 2024
     * Photographie aérienne IGN
 
 * Optimisation des performances graphiques
-* Création d'un nouveau champ "numéro et nom" plus fonctionnel sur l'ensemble des couches
+* Création d'un nouveau champ ``numéro et nom`` plus fonctionnel sur l'ensemble des couches
 * Liaisons cyclables désormais disponibles en téléchargement
 
 Septembre 2024
@@ -37,7 +54,7 @@ Septembre 2024
 * Pour les catégories « Chaussée » et « Travaux », les maîtres d'ouvrage peuvent maintenant définir une date de début et de fin de validité d'un signalement. Le signalement sera automatiquement archivé le lendemain de sa date de fin de validité
 * Seules les véloroutes traversant le territoire de restriction de l'utilisateur connecté sont désormais affichées (simplification visuelle, gain de performances)
 * Les champs ``suivistatut`` et ``enquete`` ne sont plus affichés dans le formulaire d'insertion pour les utilisateurs connectés
-* Les champs ``remarque_mo`` et ``docuement_complementaire``  ne sont plus affichés dans le formulaire d'insertion pour les utilisateurs non connectés
+* Les champs ``remarque_mo`` et ``document_complementaire``  ne sont plus affichés dans le formulaire d'insertion pour les utilisateurs non connectés
 * Le statut par défaut d'un signalement créé par un utilisateur connecté est désormais « En cours de résolution ». Ce statut est modifiable en « Signalé » ou « Pris en compte » dès le formulaire de création si besoin
 
 Août 2024

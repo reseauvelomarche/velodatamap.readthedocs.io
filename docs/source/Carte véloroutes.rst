@@ -11,7 +11,7 @@ La carte « Véloroutes » a deux utilités principales :
 - **visualiser** les véloroutes et interroger les données à une échelle fine (accessible sans compte) ;
 - **diffuser** les données via du téléchargement ponctuel (accessible sans compte) ou directement auprès de partenaires sélectionnés (France Vélo Tourisme, etc.)
 
-Un webinaire de présentation de cette carte s'est tenu en octobre 2024, dont vous pouvez visionner l'enregistrement `ici <https://www.velo-territoires.org/ressources/videotheque/explorer-et-telecharger-les-donnees-de-lobservatoire-national-des-veloroutes/>`_.
+Un **webinaire** de présentation de cette carte s'est tenu en octobre 2024, dont vous pouvez visionner l'enregistrement `ici <https://www.velo-territoires.org/ressources/videotheque/explorer-et-telecharger-les-donnees-de-lobservatoire-national-des-veloroutes/>`_.
 
 Structure des données
 ---------------------

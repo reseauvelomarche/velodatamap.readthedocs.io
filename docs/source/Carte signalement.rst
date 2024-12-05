@@ -7,7 +7,7 @@ Basé sur la contribution des cyclistes et sur une identification fine des maît
 
 Pour plus d'informations sur comment le déployer, son fonctionnement général ou ses connexions avec d'autres outils (FVT, Suricate), vous pouvez vous rendre sur `le site de Vélo & Territoires <https://www.velo-territoires.org/observatoires/outil-signalement-anomalies-cyclables/>`_, cette page étant dédiée à l'utilisation de l'outil sur Velodatamap.
 
-Un webinaire de présentation de cette carte s'est tenu en octobre 2024, dont vous pouvez visionner l'enregistrement `ici <https://www.velo-territoires.org/ressources/videotheque/gerer-les-signalements-et-diffuser-de-linformation-aux-usagers-des-veloroutes/>`_.
+Un **webinaire** de présentation de cette carte s'est tenu en octobre 2024, dont vous pouvez visionner l'enregistrement `ici <https://www.velo-territoires.org/ressources/videotheque/gerer-les-signalements-et-diffuser-de-linformation-aux-usagers-des-veloroutes/>`_.
 
 Pour savoir comment interroger les données, les filtrer ou afficher la légende, lisez la page des :ref:`Fonctionnalités générales`.
 

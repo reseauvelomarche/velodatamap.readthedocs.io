@@ -4,6 +4,19 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
 
+Décembre 2024
+--------------
+**Général :**
+
+* Ajout du format Geopackage à la liste des formats disponibles pour export
+* Amélioration du contenu et du nommage des fichiers obtenus par la procédure d'export
+* Ajout d'un fichier `ODbL_LICENSE.txt` contenant le texte de la licence associée aux données exportées à chaque export
+
+**Équipements :**
+
+* Les photos ajoutées à des regroupements ne peuvent plus avoir un nom dépassant 60 caractères (extension du fichier comprise)
+* La couche ``Véloroutes (isodistance 3km)`` est mise à jour quotidiennement en prenant en compte les dernières modifications de tracés des véloroutes concernées
+
 Novembre 2024
 --------------
 **Observatoire national des véloroutes :**
@@ -19,7 +32,7 @@ Novembre 2024
 **Équipements :**
 
 * Un équipement ne peut désormais plus être associé à un regroupement se trouvant à plus de 500 mètres de lui
-* Les photo ajoutées à des équipements ne peuvent plus avoir un nom dépassant 60 caractères (extension du fichier comprise)
+* Les photos ajoutées à des équipements ne peuvent plus avoir un nom dépassant 60 caractères (extension du fichier comprise)
 
 Octobre 2024
 --------------

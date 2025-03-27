@@ -4,11 +4,22 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
 
+Mars 2025
+--------------
+**Général :**
+
+* Les téléchargements aux formats GeoJSON et KML ne sont désormais possibles que dans le SCR WGS 84 (EPSG : 4326) afin de respecter les spécifications officielles de ces formats
+
+**Observatoire national des véloroutes :**
+
+* Mise en ligne des données de La Réunion
+
+
 Décembre 2024
 --------------
 **Général :**
 
-* Ajout du format Geopackage à la liste des formats disponibles pour export
+* Ajout du format GeoPackage à la liste des formats disponibles pour export
 * Amélioration du contenu et du nommage des fichiers obtenus par la procédure d'export
 * Ajout d'un fichier `ODbL_LICENSE.txt` contenant le texte de la licence associée aux données exportées à chaque export
 
@@ -23,7 +34,7 @@ Novembre 2024
 
 * Refonte graphique :
 
-    * remplacement de la carte "Véloroutes" par trois cartes "Avancement", "Infrastructure" et "Niveua de schéma", mettant chacune en valeur les mêmes données de l'ONV, mais avec un point de vue différent
+    * remplacement de la carte "Véloroutes" par trois cartes "Avancement", "Infrastructure" et "Niveau de schéma", mettant chacune en valeur les mêmes données de l'ONV, mais avec un point de vue différent
 
 * D'avantage de couches disponibles :
     * Monuments nationaux

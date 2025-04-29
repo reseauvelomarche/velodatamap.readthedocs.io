@@ -4,6 +4,22 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
 
+Avril 2025
+--------------
+**Général :**
+
+* Ajout du module « Tableau » à Velodatamap, qui permet de visualiser plus facilement des données tabulaires sans géométrie. Le module est accessible en cliquant sur le logo de l'association tout en haut à gauche de l'écran
+* Les utilisateurs connectés n'ont plus besoin de renseigner leur adresse mail pour télécharger des données
+* Le filtre par collectivité fonctionne indifféremment avec le nom et/ou le code INSEE sur les couches segments, équipements et regroupements
+
+**Tableau :**
+
+* Ajout de tables présentant des chiffres clefs sur les véloroutes traversant chaque collectivité française : longueur totale, longueur de véloroute réalisée l'année n-1, longueur de véloroute en site propre, etc. 
+
+**Équipements :**
+
+* Ajout de la liste des véloroutes situées à moins de 3 km d'un équipement ou regroupement dans le requêteur et l'outil de filtre
+
 Mars 2025
 --------------
 **Général :**

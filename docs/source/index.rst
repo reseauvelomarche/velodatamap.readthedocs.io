@@ -3,7 +3,7 @@ Velodatamap - documentation et tutoriels
 
 Velodatamap est le portail cartographique de `Vélo & Territoires <https://www.velo-territoires.org>`_ permettant de gérer, visualiser et télécharger des données autour des véloroutes françaises et des aménagements cyclables.
 
-Sa consultation est libre, et les fonctionnalités d'édition et administration sont réservées aux collectivités territoriales aménageuses et promoteuses de véloroutes. Il est accessible en accès connecté à l'adresse `velodatamap.velo-territoires.org/vmap/login <https://velodatamap.velo-territoires.org/vmap/login>`_ et en consultation libre à l'adresse `velodatamap.velo-territoires.org <https://velodatamap.velo-territoires.org/vmap/widget/vmap?widget_id=Rs3fEeMD4nuxYaFSODnx31pOZ2vDVyZsi6iYxrHBgs5apibhTaY5fNoGCCvsa86i&token=3ea714da-0a95-11ee-8d8d-0ebf1343709c>`_.
+Sa consultation est libre, et les fonctionnalités d'édition et administration sont réservées aux collectivités territoriales aménageuses et promoteuses de véloroutes. Il est accessible à l'adresse `velodatamap.velo-territoires.org/vmap/ <https://velodatamap.velo-territoires.org/vmap/>`_.
 
 Ce site est le manuel d'utilisation du portail, pour une description plus générale, rendez-vous sur `notre site <https://www.velo-territoires.org/observatoires/velodatamap/>`_.
 

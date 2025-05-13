@@ -81,29 +81,28 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    
    Les opérateurs suivants sont disponibles quel que soit le type du champ filtré :
 
-   - ``Existe`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple : ``statut = "Halte-repos"``
-   - ``N'existe pas`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple : ``statut = null``
+   - ``Existe`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple de données renvoyées pour le filtre ``statut Existe`` : données pour lesquelles ``statut = "Halte-repos"``
+   - ``N'existe pas`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple de données renvoyées pour le filtre ``statut N'existe pas`` : données pour lesquelles ``statut = null``
 
    Les opérateurs suivants sont disponibles pour les champs de type textuel :
    
-   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "Halte-repos"``
-   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
-   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = "Halte-repos"`` et ``filtre = "halte-r"``
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple de données renvoyées pour le filtre ``statut = "Halte-repos"`` : données pour lesquelles ``statut = "Halte-repos"`` 
+   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple de données renvoyées pour le filtre ``statut ~ halte-r`` : données pour lesquelles ``statut = "Halte-repos"``
+   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple de données renvoyées pour le filtre ``statut != Halte-vélo`` : données pour lesquelles ``statut = "Halte-repos"``
 
    Les opérateurs suivants sont disponibles pour les champs de type booléen (Vrai/Faux) :
 
-   - ``Est vrai`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "true". Exemple : ``statut = true``
-   - ``Est faux`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "false". Exemple : ``statut = false``
+   - ``Est vrai`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "true". Exemple de données renvoyées pour le filtre ``photo Est vrai`` : ``photo = true``
+   - ``Est faux`` renvoie les données pour lesquelles le champ filtré a la valeur booléenne "false". Exemple de données renvoyées pour le filtre ``photo Est faux`` : ``photo = false``
 
    Les opérateurs suivants sont disponibles pour les champs de type numérique ou date :
 
-   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
-   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 4``
-   - ``<`` renvoie les données pour lesquelles le champ filtré est inférieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 6``
-   - ``<=`` renvoie les données pour lesquelles le champ filtré est inférieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
-   - ``>`` renvoie les données pour lesquelles le champ filtré est supérieur à la valeur de filtre. Exemple : ``statut = 5`` et ``filtre = 3``
-   - ``>=`` renvoie les données pour lesquelles le champ filtré est supérieur ou égal à la valeur renseignée de filtre. Exemple : ``statut = 5`` et ``filtre = 5``
-
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip = 5`` : données pour lesquelles ``nombre_equip = 5``
+   - ``!=`` renvoie les données pour lesquelles le champ filtré n'est pas égal à la valeur renseignée de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip != 4`` : données pour lesquelles ``nombre_equip = 5``
+   - ``<`` renvoie les données pour lesquelles le champ filtré est inférieur à la valeur de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip < 6`` : données pour lesquelles ``nombre_equip = 5``
+   - ``<=`` renvoie les données pour lesquelles le champ filtré est inférieur ou égal à la valeur renseignée de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip <= 5`` : données pour lesquelles ``nombre_equip = 5``
+   - ``>`` renvoie les données pour lesquelles le champ filtré est supérieur à la valeur de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip > 4`` : données pour lesquelles ``nombre_equip = 5``
+   - ``>=`` renvoie les données pour lesquelles le champ filtré est supérieur ou égal à la valeur renseignée de filtre. Exemple de données renvoyées pour le filtre ``nombre_equip >= 5`` : données pour lesquelles ``nombre_equip = 5``
 
    .. figure:: images/gifs/filtrer.gif
 
@@ -133,11 +132,11 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    
    N'hésitez pas à utiliser et combiner les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin. Pour filtrer sur les valeurs d'un champ, par exemple ``commune``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du champ filtré pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles sont :
 
-   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "lyon"``
-   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon"``
-   - ``est parmi`` renvoie les données pour lesquelles le champ filtré est comprise dans la sélection de valeurs que vous renseignerez. Équivalent de l'opérateur SQL ``IN``. Exemple : ``commune = "Sainte-Foy-lès-Lyon"`` et ``filtre = "Sainte-Foy-lès-Lyon, Lyon, Paris"``
-   - ``est vide`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple : ``commune = null``
-   - ``n'est pas vide`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple : ``commune = "Sainte-Foy-lès-Lyon"``
+   - ``~`` renvoie les données pour lesquelles le champ filtré contient la valeur renseignée de filtre. Équivalent de l'opérateur SQL ``ILIKE``. Exemple de données renvoyées pour le filtre ``commune ~ lyon`` : données pour lesquelles ``commune = Sainte-Foy-lès-Lyon``
+   - ``=`` renvoie les données pour lesquelles le champ filtré est strictement égal à la valeur de filtre. Exemple de données renvoyées pour le filtre  ``commune = Sainte-Foy-lès-Lyon`` : données pour lesquelles ``commune = Sainte-Foy-lès-Lyon``
+   - ``est parmi`` renvoie les données pour lesquelles le champ filtré est comprise dans la sélection de valeurs que vous renseignerez. Équivalent de l'opérateur SQL ``IN``. Exemple de données renvoyées pour le filtre ``commune est parmi Sainte-Foy-lès-Lyon, Lyon, Paris`` : données pour lesquelles ``commune = Sainte-Foy-lès-Lyon``
+   - ``est vide`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple de données renvoyées pour le filtre  ``commune est vide`` : données pour lesquelles ``commune = null``
+   - ``n'est pas vide`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple de données renvoyées pour le filtre  ``commune n'est pas vide`` : données pour lesquelles ``commune = Sainte-Foy-lès-Lyon``
 
    Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes.
 

@@ -2,7 +2,7 @@ Tableaux de données
 ============================
 
 .. |tableaux| image:: images/icons/tableaux.png
-            :width: 60
+            :width: 100
 
 .. |filtre_et| image:: images/icons/filtre_et.png
             :width: 30

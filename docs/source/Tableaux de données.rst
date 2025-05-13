@@ -2,7 +2,7 @@ Tableaux de données
 ============================
 
 .. |tableaux| image:: images/icons/tableaux.png
-            :width: 30
+            :width: 60
 
 .. |filtre_et| image:: images/icons/filtre_et.png
             :width: 30
@@ -17,6 +17,8 @@ Un module distinct permet de visualiser des données non géographiques sous for
 
 Il suffit ensuite de sélectionner un thème pour accéder aux tableaux qui y sont associés. Il est aussi possible de faire défiler l'écran vers le bas pour avoir directement accès à tous les tableaux.
 
+Description des tableaux disponibles
+------------------------------------
 
 .. dropdown:: Chiffres des véloroutes par territoire
 
@@ -77,7 +79,7 @@ Il suffit ensuite de sélectionner un thème pour accéder aux tableaux qui y so
    Des champs supplémentaires comme l'historique des réalisations jusqu'à l'année N-5 sont disponibles dans les fichiers téléchargés à partir des tableaux.
 
 Filtrer et télécharger des données
----------------------------------
+----------------------------------
 
 N'hésitez pas à utiliser et combiner les filtres qui vous permettront de n'obtenir que les données dont vous avez réellement besoin. Pour filtrer sur les valeurs d'un champ, par exemple ``commune``, vous avez le choix entre plusieurs opérateurs de comparaison. Ces opérateurs comparent la valeur du champ filtré pour chaque donnée à la valeur que vous renseignez dans le filtre. Les opérateurs disponibles sont :
 
@@ -92,4 +94,4 @@ Vous pouvez combiner différents filtres de manière additive ou alternative en 
 Cliquez ensuite sur |telechargement_tableaux| pour télécharger le résultat de votre filtre. Vous pouvez choisir le nom du fichier exporté, son format (XLS disponible) et sélectionner le nombre de lignes à exporter (attention à bien mettre `0` si vous souhaitez exporter toutes les lignes).
 
 .. figure:: images/telechargement_tableaux_popup.png
-   :width: 100%
+   :width: 600

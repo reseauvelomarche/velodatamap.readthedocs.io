@@ -89,7 +89,7 @@ Supprimer un signalement
 La suppression d'un signalement n'est pas autorisée ; seul le Réseau vélo et marche a le pouvoir de le faire. Si vous avez une bonne raison de vouloir supprimer un signalement au lieu de le passer en statut ``Résolu`` (doublon, erreur manifeste, etc.), merci de contacter la cellule SIG du Réseau vélo et
 
 
-Obtenir des indicateurs sur les signalements
+Consulter des indicateurs sur les signalements
 --------------------------------------------
 
 .. figure:: images/module_signalements.png
@@ -98,9 +98,7 @@ Obtenir des indicateurs sur les signalements
 
 Vous pouvez voir d'un coup d'œil le **nombre de signalements actifs** le long de votre itinéraire en cliquant sur |module_signalements| dans la barre de droite. Sélectionnez ensuite l'itinéraire voulu, et le nombre de signalements catégorisé par statut (Signalé, Pris en compte...) s'affichera juste en-dessous.
 
-
-
-
+--------------------------------------------
 Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requeteur| dans la barre de droite. Trois onglets vous présentent différents types d'indicateurs liés à vos itinéraires.
 
 - **Indicateurs généraux** : cet onglet présente une demi-douzaine d'indicateurs, déclinés selon trois temporalités. Les chiffres correspondent à la somme des signalements recueillis dans la période donnée. Les trois périodes de référence sont : depuis le 1er janvier de l'année en cours ; depuis 365 jours ; depuis la création du premier signalement sur cet itinéraire (date variable selon l'itinéraire). Exemple : l'indicateur "créés par des usagers et résolus depuis le 1er janvier" représente le nombre de signalements créés après le 1er janvier de l'année en cours ET résolus à l'heure actuelle.

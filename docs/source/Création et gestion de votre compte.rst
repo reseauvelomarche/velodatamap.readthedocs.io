@@ -10,7 +10,7 @@ Création d'un compte
 
 Le cas échéant, merci de renseigner `ce formulaire <https://forms.gle/YXsoT4Gup81MYKRz9>`_.
 
-Vélo & Territoires crée ensuite le compte demandé après vérification de la pertinence d'ouvrir des droits en édition. Vous recevrez ensuite un mail automatique avec le résumé de vos différents accès, votre identifiant et un mot de passe provisoire qu'il vous sera obligatoire de changer à votre première connexion.
+Le Réseau vélo et marche crée ensuite le compte demandé après vérification de la pertinence d'ouvrir des droits en édition. Vous recevrez ensuite un mail automatique avec le résumé de vos différents accès, votre identifiant et un mot de passe provisoire qu'il vous sera obligatoire de changer à votre première connexion.
 
 Gestion et modification d'un compte
 -----------------------------------

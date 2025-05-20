@@ -105,7 +105,7 @@ Lorsqu'un regroupement est créé, il se voit associer toutes les véloroutes de
 
 
 .. note::
-    Vous venez de finaliser un recensement des équipements sur votre territoire, et souhaitez les intégrer à Velodatamap ? Vélo & Territoires se charge de l'intégration de votre premier jeu de données ! Vous trouverez un gabarit de type tableur en téléchargeant le dictionnaire du `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ sur notre site. Contactez-nous afin d'en savoir plus.
+    Vous venez de finaliser un recensement des équipements sur votre territoire, et souhaitez les intégrer à Velodatamap ? Le Réseau vélo et marche se charge de l'intégration de votre premier jeu de données ! Vous trouverez un gabarit de type tableur en téléchargeant le dictionnaire du `référentiel <https://www.velo-territoires.org/politiques-cyclables/data-velo-modeles-donnees/referentiel-donnees-equipements-velo/>`_ sur notre site. Contactez-nous afin d'en savoir plus.
     
     
 

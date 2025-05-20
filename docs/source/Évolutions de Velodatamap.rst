@@ -2,7 +2,7 @@
 =========================
 
 .. note::
-    Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de Vélo & Territoires.
+    Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de du Réseau vélo et marche.
 
 Avril 2025
 --------------

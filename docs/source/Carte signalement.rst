@@ -90,7 +90,7 @@ La suppression d'un signalement n'est pas autorisée ; seul le Réseau vélo et 
 
 
 Consulter des indicateurs sur les signalements
---------------------------------------------
+----------------------------------------------
 
 Vous pouvez voir d'un coup d'œil le **nombre de signalements actifs** le long de votre itinéraire en cliquant sur |module_signalements| dans la barre de droite. Sélectionnez ensuite l'itinéraire voulu, et le nombre de signalements catégorisé par statut (Signalé, Pris en compte...) s'affichera juste en-dessous :
 

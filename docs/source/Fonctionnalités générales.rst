@@ -41,6 +41,8 @@ Fonctionnalités générales
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
+.. |selection_par_geometrie| image:: images/selection_par_geometrie.png
+
 
 Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des cartes disponibles, sont résumées sur l'image ci-dessous, et chacune d'entre elle est présentée via une image animée (GIF) plus bas.
 
@@ -119,6 +121,14 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    .. figure:: images/gifs/filtrer.gif
 
 
+.. dropdown:: Sélectionner des données par géométrie
+   :animate: fade-in-slide-down
+
+   Vous pouvez créer une sélection de données pour affichage et téléchargement dans le requêteur avec des formes géométriques. Pour cela, il suffit de cliquer sur |ajout_entite|, et de choisir une option de sélection par géométrie |selection_par_geometrie|. Tracez ensuite une forme sur la carte, et les entités l'intersectant s'afficheront automatiquement dans le requêteur, pour consultation et téléchargement.
+
+   .. figure:: images/gifs/selection_par_geometrie.gif
+
+
 .. dropdown:: Créer une entité
    :animate: fade-in-slide-down
 
@@ -153,6 +163,14 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes. Vérifiez dans vos indésirables.
 
    .. figure:: images/gifs/telecharger.gif
+
+
+.. dropdown:: Visualiser des données externes
+   :animate: fade-in-slide-down
+
+   Vous pouvez visualiser des fichiers externes en les glissant-déposant dans l'interface de Velodatamap depuis votre explorateur de fichiers. Les formats de fichiers compatibles sont GeoJSON, Shapefile, GPX, TopoJSON et KML. Les géométries seront affichées sur la carte mais ne seront pas cliquables. Aucune information attributaire ne sera consultable. Vous pouvez importer plusieurs fichiers dans l'interface, et gérer leur visibilité et transparence dans l'onglet des couches en haut à gauche (si celui-ci est disponible). Tous les fichiers ainsi déposés sont stockés dans la mémoire locale de votre navigateur : Réseau vélo et marche n'en aura pas connaissance, et les couches ainsi créées disparaîtront à la fermeture de la page.
+
+   .. figure:: images/gifs/visualiser_donnees_externes.gif
 
 
 .. dropdown:: Comparer des cartes

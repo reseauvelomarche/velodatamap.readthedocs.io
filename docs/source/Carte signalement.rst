@@ -98,12 +98,11 @@ Vous pouvez voir d'un coup d'œil le **nombre de signalements actifs** le long d
    :width: 250
    :align: center
 
-
-Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requeteur| dans la barre de droite. Trois onglets vous présentent différents types d'indicateurs liés à vos itinéraires :
-
 .. figure:: images/onglets_requeteur_signalements.png
    :width: 600
    :align: right
+
+Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requeteur| dans la barre de droite. Trois onglets vous présentent différents types d'indicateurs liés à vos itinéraires :
 
 - **Indicateurs généraux** : cet onglet présente une demi-douzaine d'indicateurs, déclinés selon trois temporalités. Les chiffres correspondent à la somme des signalements recueillis dans la période donnée. Les trois périodes de référence sont : depuis le 1er janvier de l'année en cours ; depuis 365 jours ; depuis la création du premier signalement sur cet itinéraire (date variable selon l'itinéraire). Exemple : l'indicateur "créés par des usagers et résolus depuis le 1er janvier" représente le nombre de signalements créés après le 1er janvier de l'année en cours ET résolus à l'heure actuelle.
 - **(Indicateurs) par année et catégorie** : cet onglet présente la somme de signalements créés lors de chaque année civile classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut (Signalé, Pris en compte, En cours de résolution, Résolu). Le statut retenu est celui à la date du 31/12 de l'année observée. Exmeple: cela permet d'observer le statut au 31/12/2022 des signalements créés entre le  01/01/2022 et le 31/12/2022.

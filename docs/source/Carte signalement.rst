@@ -96,6 +96,7 @@ Vous pouvez voir d'un coup d'œil le **nombre de signalements actifs** le long d
 
 .. figure:: images/module_signalements.png
    :width: 250
+   :align: center
 
 Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requeteur| dans la barre de droite. Trois onglets vous présentent différents types d'indicateurs liés à vos itinéraires :
 

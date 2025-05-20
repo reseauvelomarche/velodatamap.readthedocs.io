@@ -5,27 +5,39 @@ Fonctionnalités générales
 
 .. |cartes| image:: images/icons/cartes.png
             :width: 30
+
 .. |couches| image:: images/icons/couches.png
             :width: 30
+
 .. |rechercher| image:: images/icons/rechercher.png
             :width: 30
+
 .. |filtrer| image:: images/icons/filtrer.png
             :width: 30
+
 .. |connecte| image:: images/icons/connecte.png
             :width: 30
+
 .. |ajout_entite| image:: images/icons/ajout_entite.png
             :width: 30
+
 .. |modifier| image:: images/icons/modifier.png
             :height: 30
+
 .. |enregistrer| image:: images/icons/enregistrer.png
             :height: 30
+
 .. |requeteur| image:: images/icons/requeteur.png
             :width: 30
+
 .. |extraction| image:: images/icons/extraction.png
+
 .. |telechargement_tabulaire| image:: images/icons/telechargement_tabulaire.png
             :width: 30
+
 .. |comparer| image:: images/icons/comparer.png
             :width: 30
+
 .. |mesurer| image:: images/icons/mesurer.png
             :width: 30
 
@@ -138,7 +150,7 @@ Les principales fonctionnalités de Velodatamap, utiles dans plusieurs des carte
    - ``est vide`` renvoie les données pour lesquelles le champ filtré n'a pas de valeur. Exemple de données renvoyées pour le filtre  ``commune est vide`` : données pour lesquelles ``commune = null``
    - ``n'est pas vide`` renvoie les données pour lesquelles le champ filtré a une valeur. Exemple de données renvoyées pour le filtre  ``commune n'est pas vide`` : données pour lesquelles ``commune = Sainte-Foy-lès-Lyon``
 
-   Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes.
+   Une fois la demande formulée, vous recevrez un mail à l'adresse renseignée contenant un lien de téléchargement de votre fichier. Le traitement de votre demande peut prendre plusieurs minutes. Vérifiez dans vos indésirables.
 
    .. figure:: images/gifs/telecharger.gif
 

@@ -50,7 +50,7 @@ La carte « Signalement » est accessible à toute personne souhaitant consulter
 Mode connecté
 ^^^^^^^^^^^^^
 
-Les seuls utilisateurs ayant accès à la carte « Signalement » en mode connecté sont les gestionnaires et maîtres d'ouvrage identifiés le long des itinéraires ayant déployé l'outil.
+Les seuls utilisateurs ayant accès à la carte « Signalement » en mode connecté sont les **gestionnaires et maîtres d'ouvrage identifiés** le long des itinéraires ayant déployé l'outil.
 Davantage de champs leur sont accessibles lors de la création d'un signalement :
 
 - ``Date de début de validité`` et ``Date de fin de validité`` : permettent de définir une période de validité pour un signalement. Ces champs ne sont disponibles que pour les catégories de signalement ``Chaussée`` et ``Travaux``. Un signalement ayant une date de fin de validité sera automatiquement archivé la nuit suivant la date renseignée, vous n'aurez ainsi pas à retourner sur Velodatamap pour le faire manuellement.
@@ -96,13 +96,16 @@ Obtenir des indicateurs sur les signalements
    :width: 250
    :align: right
 
-Vous pouvez voir d'un coup d'œil le nombre de signalements actifs le long de votre itinéraire en cliquant sur |module_signalements| dans la barre de droite. Sélectionnez ensuite l'itinéraire voulu, et le nombre de signalements catégorisé par statut (Signalé, Pris en compte...) s'affichera juste en-dessous.
+Vous pouvez voir d'un coup d'œil le **nombre de signalements actifs** le long de votre itinéraire en cliquant sur |module_signalements| dans la barre de droite. Sélectionnez ensuite l'itinéraire voulu, et le nombre de signalements catégorisé par statut (Signalé, Pris en compte...) s'affichera juste en-dessous.
+
+
+
 
 Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requeteur| dans la barre de droite. Trois onglets vous présentent différents types d'indicateurs liés à vos itinéraires.
 
-- Indicateurs généraux : cet onglet présente une demi-douzaine d'indicateurs, déclinés selon trois temporalités. Les chiffres correspondent à la somme des signalements recueillis dans la période donnée. Les trois périodes de référence sont : depuis le 1er janvier de l'année en cours ; depuis 365 jours ; depuis la création du premier signalement sur cet itinéraire (date variable selon l'itinéraire). Exemple : l'indicateur "créés par des usagers et résolus depuis le 1er janvier" représente le nombre de signalements créés après le 1er janvier de l'année en cours ET résolus à l'heure actuelle.
-- (Indicateurs) par année et catégorie : cet onglet présente la somme de signalements créés lors de chaque année civile classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut (Signalé, Pris en compte, En cours de résolution, Résolu). Le statut retenu est celui à la date du 31/12 de l'année observée. Exmeple: cela permet d'observer le statut au 31/12/2022 des signalements créés entre le  01/01/2022 et le 31/12/2022.
-- (Indicateurs) par catégorie (J-365) : cet onglet présente la somme de signalements créés lors des 365 derniers jours classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut actuel (Signalé, Pris en compte, En cours de résolution, Résolu).											
+- **Indicateurs généraux** : cet onglet présente une demi-douzaine d'indicateurs, déclinés selon trois temporalités. Les chiffres correspondent à la somme des signalements recueillis dans la période donnée. Les trois périodes de référence sont : depuis le 1er janvier de l'année en cours ; depuis 365 jours ; depuis la création du premier signalement sur cet itinéraire (date variable selon l'itinéraire). Exemple : l'indicateur "créés par des usagers et résolus depuis le 1er janvier" représente le nombre de signalements créés après le 1er janvier de l'année en cours ET résolus à l'heure actuelle.
+- **(Indicateurs) par année et catégorie** : cet onglet présente la somme de signalements créés lors de chaque année civile classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut (Signalé, Pris en compte, En cours de résolution, Résolu). Le statut retenu est celui à la date du 31/12 de l'année observée. Exmeple: cela permet d'observer le statut au 31/12/2022 des signalements créés entre le  01/01/2022 et le 31/12/2022.
+- **(Indicateurs) par catégorie (J-365)** : cet onglet présente la somme de signalements créés lors des 365 derniers jours classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut actuel (Signalé, Pris en compte, En cours de résolution, Résolu).											
 
 Comme expliqué dans la section ``Télécharger des données`` de la page :ref:`Fonctionnalités générales`, vous pouvez filtrer et télécharger les lignes de votre choix dans chaque onglet en cliquant sur |telechargement_tabulaire|.
 

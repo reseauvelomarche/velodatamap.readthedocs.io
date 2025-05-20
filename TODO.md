@@ -5,13 +5,7 @@
 - description des couches PBVF/MnF
 - Expliquer symbologie et types de données
 
-# Signalement
-
-- expliquer rapport CSV
-
 # Fonctionnalités générales
 
 - Sélection géo-graphique des données : dropdown et GIF
 - glisser-déposer de fichiers externes
-
-# Tableau

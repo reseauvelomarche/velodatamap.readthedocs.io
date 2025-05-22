@@ -4,6 +4,16 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG de du Réseau vélo et marche.
 
+Mai 2025
+--------------
+**Signalement :**
+
+* Ajout d'indicateurs sur les signalements (visibles dans le requêteur) ainsi que d'une fonctionnalité de génération d'un rapport Excel
+
+**Observatoire National des Véloroutes :**
+
+* Ajout de la liste des portions associées à chaque véloroute dans les fiches descriptives de la couche ``Véloroute``
+
 Avril 2025
 --------------
 **Général :**
@@ -26,7 +36,7 @@ Mars 2025
 
 * Les téléchargements aux formats GeoJSON et KML ne sont désormais possibles que dans le SCR WGS 84 (EPSG : 4326) afin de respecter les spécifications officielles de ces formats
 
-**Observatoire national des véloroutes :**
+**Observatoire National des Véloroutes :**
 
 * Mise en ligne des données de La Réunion
 
@@ -46,7 +56,7 @@ Décembre 2024
 
 Novembre 2024
 --------------
-**Observatoire national des véloroutes :**
+**Observatoire National des Véloroutes :**
 
 * Refonte graphique :
 

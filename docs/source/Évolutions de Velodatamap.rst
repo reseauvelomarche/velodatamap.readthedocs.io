@@ -9,6 +9,7 @@ Mai 2025
 **Signalement :**
 
 * Ajout d'indicateurs sur les signalements (visibles dans le requêteur) ainsi que d'une fonctionnalité de génération d'un rapport Excel
+* Rétablissement de la passerelle avec Suricate
 
 **Observatoire National des Véloroutes :**
 

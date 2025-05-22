@@ -63,7 +63,7 @@ Novembre 2024
 
     * remplacement de la carte "Véloroutes" par trois cartes "Avancement", "Infrastructure" et "Niveau de schéma", mettant chacune en valeur les mêmes données de l'ONV, mais avec un point de vue différent
 
-* D'avantage de couches disponibles :
+* Davantage de couches disponibles :
     * Monuments nationaux
     * Les Plus Beaux Villages de France
 
@@ -83,7 +83,7 @@ Octobre 2024
     * ajout de la couche itinéraire
     * ajout de la couche liaison
 
-* D'avantage de couches disponibles :
+* Davantage de couches disponibles :
     * limites administratives IGN
     * Plan IGN
     * Photographie aérienne IGN
@@ -155,7 +155,7 @@ Juillet 2024
     * Distance entre un équipement et son regroupement associé
     * Distance entre un regroupement et les itinéraires auxquels il est associé
 
-* D'avantage de couches disponibles :
+* Davantage de couches disponibles :
 
     * autres véloroutes (sur lesquelles il n'y a pas de dynamique de numérisation d'équipements)
     * limites administratives IGN

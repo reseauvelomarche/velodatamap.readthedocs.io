@@ -111,7 +111,7 @@ Si vous souhaitez accéder à des indicateurs plus complets, cliquez sur |requet
 - **(Indicateurs) par année et catégorie** : cet onglet présente la somme de signalements créés lors de chaque année civile classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut (Signalé, Pris en compte, En cours de résolution, Résolu). Le statut retenu est celui à la date du 31/12 de l'année observée. Exemple : cela permet d'observer le statut au 31/12/2022 des signalements créés entre le  01/01/2022 et le 31/12/2022.
 - **(Indicateurs) par catégorie (J-365)** : cet onglet présente la somme de signalements créés lors des 365 derniers jours classés par provenance (maîtres d'ouvrage ou usagers), catégorie (Travaux, Signalisation…) et statut actuel (Signalé, Pris en compte, En cours de résolution, Résolu).											
 
-Si vous avez besoin d'une explication plus claire de comment interpréter une ligne, vous pouvez cliquer sur |fiche_descriptive_requeteur| tout à gauche de la ligne en question. Cela qui ouvrira un panneau proposant une clef de lecture de l'indicateur en question.
+Si vous avez besoin d'une explication plus claire sur la façon d'interpréter une ligne, vous pouvez cliquer sur |fiche_descriptive_requeteur| tout à gauche de la ligne en question. Cela qui ouvrira un panneau proposant une clef de lecture de l'indicateur en question.
 
 .. figure:: images/clef_de_lecture_indicateur_signalement.png
    :width: 200

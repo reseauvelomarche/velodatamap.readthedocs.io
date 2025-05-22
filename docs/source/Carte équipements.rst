@@ -53,7 +53,7 @@ Afin d'aider à la visualisation et la planification, d'autres données que les 
 - Couche ``Regroupement`` : cercle de 50 mètres de rayon autour de la localisation des regroupements. Permet d'évaluer le respect de la bonne pratique associée.
 - ``Véloroute avec équipements`` : véloroutes sur le tracé desquelles des équipements ont été numérisés.
 - ``Véloroute (iso 3 km)`` : zones à moins de 3 kilomètres à pied des véloroutes de la couche ``Véloroute avec équipements``. Permet d'évaluer le respect de la bonne pratique associée.
-- ``Véloroute autre`` : permet de visualiser le tracé des autres véloroutes de l'Observatoire national des véloroutes (couche désactivée par défaut).
+- ``Véloroute autre`` : permet de visualiser le tracé des autres véloroutes de l'Observatoire National des Véloroutes (couche désactivée par défaut).
 - ``Limites administratives`` : permet d'afficher les limites administratives françaises, niveau de précision variant selon le zoom (couche de l'IGN, désactivée par défaut).
 
 

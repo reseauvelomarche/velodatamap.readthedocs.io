@@ -13,7 +13,9 @@ Mai 2025
 
 **Observatoire National des Véloroutes :**
 
-* Ajout de la liste des portions associées à chaque véloroute dans les fiches descriptives de la couche ``Véloroute``
+* Ajout de la liste des portions et liaisons associées à chaque véloroute dans les fiches descriptives de la couche ``Véloroute``
+* Ajout de la liste des segments empruntés par et des liaisons associées à chaque portion dans les fiches descriptives de la couche ``Portion de véloroute``
+* Ajout de la liste des véloroutes et portions empruntant chaque segment dans les fiches descriptives de la couche ``Segment de véloroute``
 
 Avril 2025
 --------------

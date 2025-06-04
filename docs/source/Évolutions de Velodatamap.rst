@@ -6,7 +6,7 @@
 
 Juin 2025
 --------------
-**Observatoire National des Véloroutes :**
+**Observatoire national des véloroutes :**
 
 * Correction de l'ordre d'affichage des véloroutes en donnant la priorité aux EuroVelo puis au SNV, puis aux SRV, puis aux SDV
 
@@ -18,7 +18,7 @@ Mai 2025
 * Ajout d'indicateurs sur les signalements (visibles dans le requêteur) ainsi que d'une fonctionnalité de génération d'un rapport Excel
 * Rétablissement de la passerelle avec Suricate
 
-**Observatoire National des Véloroutes :**
+**Observatoire national des véloroutes :**
 
 * Ajout de la liste des portions et liaisons associées à chaque véloroute dans les fiches descriptives de la couche ``Véloroute``
 * Ajout de la liste des segments empruntés par et des liaisons associées à chaque portion dans les fiches descriptives de la couche ``Portion de véloroute``
@@ -46,7 +46,7 @@ Mars 2025
 
 * Les téléchargements aux formats GeoJSON et KML ne sont désormais possibles que dans le SCR WGS 84 (EPSG : 4326) afin de respecter les spécifications officielles de ces formats
 
-**Observatoire National des Véloroutes :**
+**Observatoire national des véloroutes :**
 
 * Mise en ligne des données de La Réunion
 
@@ -66,7 +66,7 @@ Décembre 2024
 
 Novembre 2024
 --------------
-**Observatoire National des Véloroutes :**
+**Observatoire national des véloroutes :**
 
 * Refonte graphique :
 
@@ -83,7 +83,7 @@ Novembre 2024
 
 Octobre 2024
 --------------
-**Véloroutes :**
+**Observatoire national des véloroutes :**
 
 * Refonte graphique :
 

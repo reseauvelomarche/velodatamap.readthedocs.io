@@ -15,7 +15,7 @@ Carte signalement
 
 .. |extraction| image:: images/icons/extraction.png
 
-Cette carte vous permet de visualiser et gérer les signalements d'anomalies cyclable sur les itinéraires qui ont activé l'outil. **Il peut être déployé sur tout itinéraire présent dans l'Observatoire National des Véloroutes**.
+Cette carte vous permet de visualiser et gérer les signalements d'anomalies cyclable sur les itinéraires qui ont activé l'outil. **Il peut être déployé sur tout itinéraire présent dans l'Observatoire national des véloroutes**.
 
 Basé sur la contribution des cyclistes et sur une identification fine des maîtres d'ouvrage et/ou des gestionnaires, l'outil de signalement offre une solution simple et transparente à la gestion d'anomalies. L'usager est assuré que son information est transmise à la bonne personne et cette dernière lui notifie ensuite la résolution du problème rencontré.
 

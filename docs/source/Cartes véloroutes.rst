@@ -4,7 +4,7 @@ Cartes véloroutes
 .. note::
     Page en construction.
 
-Le Réseau vélo et marche anime, avec le soutien du Ministère de la transition écologique et de la cohésion des territoires, `L'Observatoire National des Véloroutes <https://www.velo-territoires.org/observatoires/observatoire-national-des-veloroutes-et-voies-vertes/>`_ qui vise à suivre l'évolution des véloroutes et notamment l'avancement de leur réalisation. Toutes les véloroutes sont concernées, du niveau européen au départemental. Les données proviennent des collectivités contributrices, elles sont mises en qualité et en cohérence par le Réseau vélo et marche, puis diffusées sur Velodatamap.
+Le Réseau vélo et marche anime, avec le soutien du Ministère de la transition écologique et de la cohésion des territoires, `L'Observatoire national des véloroutes <https://www.velo-territoires.org/observatoires/observatoire-national-des-veloroutes-et-voies-vertes/>`_ qui vise à suivre l'évolution des véloroutes et notamment l'avancement de leur réalisation. Toutes les véloroutes sont concernées, du niveau européen au départemental. Les données proviennent des collectivités contributrices, elles sont mises en qualité et en cohérence par le Réseau vélo et marche, puis diffusées sur Velodatamap.
 
 La carte « Véloroutes » a deux utilités principales :
 

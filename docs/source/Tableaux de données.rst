@@ -22,7 +22,7 @@ Description des tableaux disponibles
 
 .. dropdown:: Chiffres des véloroutes par territoire
 
-   Ces tableaux présentent des chiffres-clefs pour chaque véloroute inscrite à l'Observatoire National des Véloroutes (ONV), territoire par territoire. Ils sont mis à jour quotidiennement à partir des données de l'ONV consultables sur les cartes « Véloroutes ». Ces chiffres ne sont pour l'instant disponibles que pour la France métropolitaine.
+   Ces tableaux présentent des chiffres-clefs pour chaque véloroute inscrite à l'Observatoire national des véloroutes (ONV), territoire par territoire. Ils sont mis à jour quotidiennement à partir des données de l'ONV consultables sur les cartes « Véloroutes ». Ces chiffres ne sont pour l'instant disponibles que pour la France métropolitaine.
 
    Chaque ligne du tableau représente la relation entre une véloroute et un territoire qu'elle traverse, par exemple le nombre de kilomètres de voirie que la V85 emprunte dans le département du Gard, ou le nombre d'EPCI que la V85 traverse au sein du département du Gard.
 

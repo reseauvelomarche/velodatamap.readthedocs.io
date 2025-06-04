@@ -4,6 +4,13 @@
 .. note::
     Cette page présente les évolutions de Velodatamap depuis juillet 2024, vous montrant la liste des nouvelles fonctionnalités disponibles sur l'application ainsi que le travail parfois invisible de l'équipe SIG du Réseau vélo et marche.
 
+Juin 2025
+--------------
+**Observatoire National des Véloroutes :**
+
+* Correction de l'ordre d'affichage des véloroutes en donnant la priorité aux EuroVelo puis au SNV, puis aux SRV, puis aux SDV
+
+
 Mai 2025
 --------------
 **Signalement :**
